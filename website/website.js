@@ -1,18 +1,40 @@
 Workouts = new Meteor.Collection("workouts");
 
+loadRandomWorkout = function () {
+  var workout = _.sample(Workouts.find().fetch());
+
+  Session.set("currentWorkout", workout);
+  Session.set("timer", workout.duration);
+};
+
 if (Meteor.isClient) {
-  Session.setDefault("timer", 10);
+  Session.setDefault("totalTime", 120);
 
   var workoutCompleted = function () {
-    // do what????
+    if (Session.get("redirectUrl")) {
+      window.location.replace(Session.get("redirectUrl"));
+    } else {
+      Session.set("playing", false)
+      Session.set("done", true);
+    }
   };
 
   var tick = function () {
-    if (Session.get("playing") && Session.get("timer") > 0) {
-      Session.set("timer", Session.get("timer") - 1);
-    }
+    if (Session.get("playing")) {
+      if (Session.get("timer") > 0) {
+        Session.set("timer", Session.get("timer") - 1);
+        Session.set("totalTime", Session.get("totalTime") - 1);
+      }
 
-    workoutCompleted();
+      if (Session.get("totalTime") <= 0) {
+        workoutCompleted();
+        return;
+      }
+
+      if (Session.get("timer") <= 0) {
+        loadRandomWorkout();
+      }
+    }
   };
 
   setInterval(tick, 1000);
@@ -21,8 +43,17 @@ if (Meteor.isClient) {
     timer: function () {
       return Session.get("timer");
     },
+    totalTimer: function () {
+      return Session.get("totalTime");
+    },
     playing: function () {
       return Session.get("playing");
+    },
+    currentWorkout: function () {
+      return Session.get("currentWorkout");
+    },
+    done: function () {
+      return Session.get("done");
     }
   });
 

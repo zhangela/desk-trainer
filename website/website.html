@@ -6,17 +6,37 @@
 </body>
 
 <template name="workout">
-  <h1>Time to Work Out!</h1>
-  <h3>Time left: {{timer}}</h3>
+  <div class="container">
+    {{#if done}}
+      <div class="text-center">
+        <h1>You're done!</h1>
+      </div>
+    {{else}}
+      <h3>
+        Time to Work Out!
 
-  {{#if playing}}
-    <button role="button" class="pause">Pause</button>
-  {{else}}
-    <button role="button" class="start">Start</button>
-  {{/if}}
+        <span class="pull-right">
+          Total time left: {{totalTimer}}
 
-  <img src="http://graphics8.nytimes.com/images/2013/05/12/health/12well_physed/12well_physed-superJumbo.jpg" />
+          {{#if playing}}
+            <button role="button" class="pause">Pause</button>
+          {{else}}
+            <button role="button" class="start">Start</button>
+          {{/if}}
+        </span>
+      </h3>
 
+      <hr />
+
+      <div class="text-center">
+        {{#with currentWorkout}}
+          <h3>{{timer}} more seconds of</h3>
+          <h1>{{name}}</h1>
+          <img src="{{imageUrl}}" />
+        {{/with}}
+      </div>
+    {{/if}}
+  </div>
 </template>
 
 <template name="addWorkout">
@@ -51,4 +71,8 @@
       {{/each}}
     </table>
   </div>
+</template>
+
+<template name="loading">
+  Loading...
 </template>
