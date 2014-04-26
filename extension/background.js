@@ -3,14 +3,7 @@ var UPDATE_INTERVAL = 1;
 
 var DeskTrainer = {};
 DeskTrainer.timeSpentOnBlackList = 0;
-DeskTrainer.totalTimeOnBlackListPerWorkout = 30;
-
-DeskTrainer.hasTimerRanOut = function() {
-    if (DeskTrainer.totalTimeOnBlackListPerWorkout <= DeskTrainer.timeSpentOnBlackList) {
-        DeskTrainer.timeSpentOnBlackList = 0;
-        return true;
-    }
-};
+DeskTrainer.totalTimeOnBlackListPerWorkout = 10;
 
 DeskTrainer.executeIfCurrentUrlIsOnBlackList = function(callback) {
     chrome.storage.sync.get("BLOCKED_URLS", function (urls) {
@@ -25,13 +18,7 @@ DeskTrainer.executeIfCurrentUrlIsOnBlackList = function(callback) {
     });
 };
 
-DeskTrainer.redirectToWorkOut = function() {
-    if (DeskTrainer.hasTimerRanOut()) {
-        window.location.replace("http://stackoverflow.com");
-    }
-};
-
-
+// checks if currently on black list site, if so, update time.
 DeskTrainer.updateTimeSpentOnBlackList = function() {
     DeskTrainer.executeIfCurrentUrlIsOnBlackList(function() {
         DeskTrainer.timeSpentOnBlackList += UPDATE_INTERVAL;
@@ -39,9 +26,19 @@ DeskTrainer.updateTimeSpentOnBlackList = function() {
     });
 };
 
+DeskTrainer.hasTimerRanOut = function() {
+    if (DeskTrainer.totalTimeOnBlackListPerWorkout <= DeskTrainer.timeSpentOnBlackList) {
+        DeskTrainer.timeSpentOnBlackList = 0;
+        return true;
+    }
+};
 
 DeskTrainer.shouldWorkOut = function() {
-    DeskTrainer.executeIfCurrentUrlIsOnBlackList(DeskTrainer.redirectToWorkOut);
+    DeskTrainer.executeIfCurrentUrlIsOnBlackList(function() {
+        if (DeskTrainer.hasTimerRanOut()) {
+            window.location.replace("http://stackoverflow.com");
+        }
+    });
 };
 
 // Update timer data every UPDATE_INTERVAL seconds
