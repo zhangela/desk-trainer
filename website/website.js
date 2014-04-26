@@ -41,6 +41,17 @@ if (Meteor.isClient) {
       var formData = FormUtils.serializeForm(event.target);
 
       Workouts.insert(formData);
+    },
+    "click .delete": function (event) {
+      event.preventDefault();
+
+      Workouts.remove({_id: this._id});
+    }
+  });
+
+  Template.addWorkout.helpers({
+    workouts: function () {
+      return Workouts.find().fetch();
     }
   });
 }

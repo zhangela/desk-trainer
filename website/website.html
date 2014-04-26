@@ -20,16 +20,35 @@
 </template>
 
 <template name="addWorkout">
-  <form>
-    <label>Name</label>
-    <input type="text" name="name" />
+  <div class="container">
+    <h2>Add Exercise</h2>
+    <form>
+      <label>Name</label>
+      <input type="text" name="name" />
 
-    <label>Duration</label>
-    <input type="number" name="duration" />
+      <label>Duration (Seconds)</label>
+      <input type="number" name="duration" />
 
-    <label>Image</label>
-    <input type="text" name="imageUrl" />
+      <label>Image URL</label>
+      <input type="text" name="imageUrl" />
 
-    <button>Submit</button>
-  </form>
+      <button>Submit</button>
+    </form>
+
+    <hr />
+
+    Existing workouts:
+
+    <table class="table">
+      <tr><th>Name</th><th>Duration</th><th>Image</th><th>Delete</th></tr>
+      {{#each workouts}}
+        <tr>
+          <td>{{name}}</td>
+          <td>{{duration}}</td>
+          <td><img src="{{imageUrl}}" /></td>
+          <td><a href="#" class="delete">Delete this Workout</a></td>
+        </tr>
+      {{/each}}
+    </table>
+  </div>
 </template>
