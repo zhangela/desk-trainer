@@ -1,27 +1,49 @@
-var stayfocused = {};
+// Update the timer every 1 second
+var UPDATE_INTERVAL = 1;
 
-stayfocused.isOnBlockedSite = function() {
+var DeskTrainer = {};
+DeskTrainer.timeSpentOnBlackList = 0;
+DeskTrainer.totalTimeOnBlackListPerWorkout = 30;
+
+DeskTrainer.hasTimerRanOut = function() {
+    if (DeskTrainer.totalTimeOnBlackListPerWorkout <= DeskTrainer.timeSpentOnBlackList) {
+        DeskTrainer.timeSpentOnBlackList = 0;
+        return true;
+    }
+};
+
+DeskTrainer.executeIfCurrentUrlIsOnBlackList = function(callback) {
     chrome.storage.sync.get("BLOCKED_URLS", function (urls) {
         var blockedUrls = urls["BLOCKED_URLS"] || [];
-        console.log(blockedUrls);
-        var current_url = location.href;
+        var currentUrl = location.href;
 
         blockedUrls.forEach(function(blockedUrl) {
-            if (current_url.indexOf(blockedUrl) > -1) {
-                return true;
+            if (currentUrl.indexOf(blockedUrl) > -1) {
+                callback();
             }
         });
     });
 };
 
-stayfocused.hasTimerRanOut = function() {
-    return true;
-};
-
-stayfocused.shouldWorkOut = function() {
-    if (stayfocused.isOnBlockedSite() && stayfocused.hasTimerRanOut()) {
-        alert("you should work out!");
+DeskTrainer.redirectToWorkOut = function() {
+    if (DeskTrainer.hasTimerRanOut()) {
+        window.location.replace("http://stackoverflow.com");
     }
 };
 
-stayfocused.shouldWorkOut();
+
+DeskTrainer.updateTimeSpentOnBlackList = function() {
+    DeskTrainer.executeIfCurrentUrlIsOnBlackList(function() {
+        DeskTrainer.timeSpentOnBlackList += UPDATE_INTERVAL;
+        console.log(DeskTrainer.timeSpentOnBlackList); //why are the numbers weird?
+    });
+};
+
+
+DeskTrainer.shouldWorkOut = function() {
+    DeskTrainer.executeIfCurrentUrlIsOnBlackList(DeskTrainer.redirectToWorkOut);
+};
+
+// Update timer data every UPDATE_INTERVAL seconds
+setInterval(DeskTrainer.updateTimeSpentOnBlackList, UPDATE_INTERVAL * 1000);
+setInterval(DeskTrainer.shouldWorkOut, UPDATE_INTERVAL * 1000);
