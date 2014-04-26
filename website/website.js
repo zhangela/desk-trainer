@@ -1,19 +1,29 @@
 if (Meteor.isClient) {
-  Template.hello.greeting = function () {
-    return "Welcome to website.";
+  Session.setDefault("timer", 10);
+
+  var tick = function () {
+    if (Session.get("playing") && Session.get("timer") > 0) {
+      Session.set("timer", Session.get("timer") - 1);
+    }
   };
 
-  Template.hello.events({
-    'click input': function () {
-      // template data, if any, is available in 'this'
-      if (typeof console !== 'undefined')
-        console.log("You pressed the button");
+  setInterval(tick, 1000);
+
+  Template.workout.helpers({
+    timer: function () {
+      return Session.get("timer");
+    },
+    playing: function () {
+      return Session.get("playing");
     }
   });
-}
 
-if (Meteor.isServer) {
-  Meteor.startup(function () {
-    // code to run on server at startup
+  Template.workout.events({
+    "click .start": function () {
+      Session.set("playing", true);
+    },
+    "click .pause": function () {
+      Session.set("playing", false);
+    }
   });
 }
