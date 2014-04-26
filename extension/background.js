@@ -9,7 +9,7 @@ DeskTrainer.activeTabId = null;
 
 DeskTrainer.getCurrentTabUrl = function() {
     chrome.tabs.getSelected(null, function(tab){
-      DeskTrainer.activeTabUrl = tab.url;
+      DeskTrainer.activeTabUrl = tab.url.match(/^[\w-]+:\/*\[?([\w\.:-]+)\]?(?::\d+)?/)[1];
     });
 };
 
@@ -39,11 +39,11 @@ DeskTrainer.shouldWorkOut = function() {
         DeskTrainer.timeSpentOnBlackList += UPDATE_INTERVAL;
         console.log(DeskTrainer.timeSpentOnBlackList);
         if (DeskTrainer.hasTimerRanOut()) {
-            chrome.tabs.update(DeskTrainer.activeTabId, {url: "http://meteor.com"});
+            chrome.tabs.update(DeskTrainer.activeTabId, {url: "http://desktrainer.meteor.com/workout?redirect=" + DeskTrainer.activeTabUrl});
         }
     });
 };
 
-// Update timer data every UPDATE_INTERVAL seconds
 setInterval(DeskTrainer.getCurrentTabUrl, UPDATE_INTERVAL * 500);
+// Update timer every UPDATE_INTERVAL seconds
 setInterval(DeskTrainer.shouldWorkOut, UPDATE_INTERVAL * 1000);
