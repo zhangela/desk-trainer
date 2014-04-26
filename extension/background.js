@@ -3,7 +3,7 @@ var UPDATE_INTERVAL = 1;
 
 var DeskTrainer = {};
 DeskTrainer.timeSpentOnBlackList = 0;
-DeskTrainer.totalTimeOnBlackListPerWorkout = 10;
+DeskTrainer.totalTimeOnBlackListPerWorkout = 5;
 
 DeskTrainer.executeIfCurrentUrlIsOnBlackList = function(callback) {
     chrome.storage.sync.get("BLOCKED_URLS", function (urls) {

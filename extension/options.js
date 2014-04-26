@@ -1,8 +1,13 @@
+var splitOnCommaAndStripSpaces = function(str_list) {
+    return str_list.replace(/^\s+|\s+$/g,"").split(/\s*,\s*/);
+};
+
 var save_options = function() {
     // allowed urls
     var el_entries = document.getElementById('textarea_urls_to_block');
     var entries = el_entries.value;
-    chrome.storage.sync.set({'BLOCKED_URLS': entries.split(",")});
+
+    chrome.storage.sync.set({'BLOCKED_URLS': splitOnCommaAndStripSpaces(entries)});
     
     // on or off
     var el_on_or_off = document.getElementById('stayfocused_on_or_off');
@@ -17,7 +22,9 @@ var save_options = function() {
 };
 
 var load_options = function() {
+    console.log("load");
     chrome.storage.sync.get('BLOCKED_URLS', function (di) {
+        console.log("sync");
         var entries = di["BLOCKED_URLS"].join(', ');
         console.log(entries);
         var el_entries = document.getElementById('textarea_urls_to_block');
