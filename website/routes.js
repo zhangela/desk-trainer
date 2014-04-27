@@ -3,6 +3,13 @@ Router.configure({
 });
 
 Router.map(function() {
+
+  this.route('home', {
+    path: '/',
+    template: 'home',
+    layoutTemplate: null
+  });
+
   this.route('workout', {
     waitOn: function () {
       // set URL to return to after
