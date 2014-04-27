@@ -5,7 +5,16 @@
 <body>
 </body>
 
+<template name="clock">
+  <svg class="clock" viewBox="0 0 100 100">
+    <path id="arc1" fill="#ddd"
+      d="{{arcPath}}" />
+  </svg>
+</template>
+
 <template name="workout">
+  {{> clock}}
+
   <div class="container">
     {{#if done}}
       <div class="text-center">
@@ -13,7 +22,7 @@
       </div>
     {{else}}
       <h3>
-        Time to Work Out!
+        DeskTrainer
 
         <span class="pull-right">
           Total time left: {{totalTimer}}
@@ -28,11 +37,12 @@
 
       <hr />
 
-      <div class="text-center">
+      <div class="text-center workout-box">
         {{#with currentWorkout}}
           <h3>{{timer}} more seconds of</h3>
           <h1>{{name}}</h1>
-          <img src="{{imageUrl}}" />
+          <p class="lead">{{description}}</p>
+          <img src="{{imageUrl}}" class="workout-image" />
         {{/with}}
       </div>
     {{/if}}
