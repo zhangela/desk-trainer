@@ -42,6 +42,10 @@ Router.map(function() {
       });
     }
   });
-  this.route('addWorkout');
+  this.route('addWorkout', {
+    waitOn: function () {
+      Meteor.subscribe("workouts");
+    }
+  });
   this.route('about');
 });
