@@ -21,7 +21,7 @@ var restOrRandomWorkout = function () {
     Session.get("currentWorkout").rest) {
       loadRandomWorkout();
     } else {
-      startRest(5);
+      startRest("Rest", 5);
     }
 };
 
