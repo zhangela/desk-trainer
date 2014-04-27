@@ -40,12 +40,8 @@ if (Meteor.isClient) {
   var dingSound = new Audio("ding.mp3");
 
   var workoutCompleted = function () {
-    if (Session.get("redirectUrl")) {
-      window.location.replace(Session.get("redirectUrl"));
-    } else {
-      Session.set("playing", false);
-      Session.set("done", true);
-    }
+    Session.set("playing", false);
+    Session.set("done", true);
   };
 
   var tick = function () {
