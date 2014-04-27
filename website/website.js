@@ -1,20 +1,42 @@
 Workouts = new Meteor.Collection("workouts");
 
-loadRandomWorkout = function () {
+var startWorkout = function (workout) {
+  Session.set("currentWorkout", workout);
+  Session.set("timer", Math.min(workout.duration, Session.get("totalTime")));
+};
+
+startRest = function (name, restTime, imageUrl, description) {
+  startWorkout({
+    name: name || "Rest",
+    duration: restTime || 5,
+    imageUrl: imageUrl ||
+      "http://leshayman.files.wordpress.com/2012/08/meditation.png",
+    rest: true,
+    description: description
+  });
+};
+
+var restOrRandomWorkout = function () {
+  if (Session.get("currentWorkout") &&
+    Session.get("currentWorkout").rest) {
+      loadRandomWorkout();
+    } else {
+      startRest(5);
+    }
+};
+
+var loadRandomWorkout = function () {
   var workout = _.sample(Workouts.find().fetch());
 
-  Session.set("currentWorkout", workout);
-  Session.set("timer", workout.duration);
+  startWorkout(workout);
 };
 
 if (Meteor.isClient) {
-  Session.setDefault("totalTime", 120);
-
   var workoutCompleted = function () {
     if (Session.get("redirectUrl")) {
       window.location.replace(Session.get("redirectUrl"));
     } else {
-      Session.set("playing", false)
+      Session.set("playing", false);
       Session.set("done", true);
     }
   };
@@ -32,7 +54,7 @@ if (Meteor.isClient) {
       }
 
       if (Session.get("timer") <= 0) {
-        loadRandomWorkout();
+        restOrRandomWorkout();
       }
     }
   };
