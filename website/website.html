@@ -6,30 +6,73 @@
 </body>
 
 <template name="workout">
-  <h1>Time to Work Out!</h1>
-  <h3>Time left: {{timer}}</h3>
+  <div class="container">
+    {{#if done}}
+      <div class="text-center">
+        <h1>You're done!</h1>
+      </div>
+    {{else}}
+      <h3>
+        Time to Work Out!
 
-  {{#if playing}}
-    <button role="button" class="pause">Pause</button>
-  {{else}}
-    <button role="button" class="start">Start</button>
-  {{/if}}
+        <span class="pull-right">
+          Total time left: {{totalTimer}}
 
-  <img src="http://graphics8.nytimes.com/images/2013/05/12/health/12well_physed/12well_physed-superJumbo.jpg" />
+          {{#if playing}}
+            <button role="button" class="pause">Pause</button>
+          {{else}}
+            <button role="button" class="start">Start</button>
+          {{/if}}
+        </span>
+      </h3>
 
+      <hr />
+
+      <div class="text-center">
+        {{#with currentWorkout}}
+          <h3>{{timer}} more seconds of</h3>
+          <h1>{{name}}</h1>
+          <img src="{{imageUrl}}" />
+        {{/with}}
+      </div>
+    {{/if}}
+  </div>
 </template>
 
 <template name="addWorkout">
-  <form>
-    <label>Name</label>
-    <input type="text" name="name" />
+  <div class="container">
+    <h2>Add Exercise</h2>
+    <form>
+      <label>Name</label>
+      <input type="text" name="name" />
 
-    <label>Duration</label>
-    <input type="number" name="duration" />
+      <label>Duration (Seconds)</label>
+      <input type="number" name="duration" />
 
-    <label>Image</label>
-    <input type="text" name="imageUrl" />
+      <label>Image URL</label>
+      <input type="text" name="imageUrl" />
 
-    <button>Submit</button>
-  </form>
+      <button>Submit</button>
+    </form>
+
+    <hr />
+
+    Existing workouts:
+
+    <table class="table">
+      <tr><th>Name</th><th>Duration</th><th>Image</th><th>Delete</th></tr>
+      {{#each workouts}}
+        <tr>
+          <td>{{name}}</td>
+          <td>{{duration}}</td>
+          <td><img src="{{imageUrl}}" /></td>
+          <td><a href="#" class="delete">Delete this Workout</a></td>
+        </tr>
+      {{/each}}
+    </table>
+  </div>
+</template>
+
+<template name="loading">
+  Loading...
 </template>
