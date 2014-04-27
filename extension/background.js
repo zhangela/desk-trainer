@@ -116,7 +116,6 @@ DeskTrainer.shouldWorkOut = function() {
         DeskTrainer.timeLeftOnBlackList -= UPDATE_INTERVAL;
         console.log(DeskTrainer.timeLeftOnBlackList);
         if (DeskTrainer.hasTimerRanOut()) {
-            alert("ran out");
             chrome.tabs.update(DeskTrainer.activeTabId, {
                 url: "http://desktrainer.meteor.com/workout?redirect=" + DeskTrainer.activeTabUrl +
                 "&duration=" + DeskTrainer.duration +
