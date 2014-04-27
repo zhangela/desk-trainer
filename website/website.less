@@ -10,7 +10,52 @@
   z-index: -1;
 }
 
+.brand {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 20px;
+}
+
+.tools {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 20px;
+  font-size: 1.5em;
+
+  z-index: 3;
+}
+
 img.workout-image {
-  max-width: 100%;
-  max-height: 100%;
+  max-height: 50vh;
+  margin-top: 20vh;
+  min-height: 35vh;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background: #556166;
+  color: white;
+}
+
+.workout-box {
+  display: table-cell;
+  vertical-align: middle;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.narrow {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.wide-input {
+  width: 300px !important;
 }

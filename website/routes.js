@@ -14,10 +14,12 @@ Router.map(function() {
         totalTime = parseInt(this.params.duration, 10);
       }
 
+      Session.set("workoutDuration", totalTime);
       Session.setDefault("totalTime", totalTime + 10);
 
       // display message about how long you have slacked off for
       var minutes = this.params.distraction;
+      Session.set("distraction", minutes);
       var message = null;
       if (minutes) {
         message = "You've been slacking off for " + minutes + " minutes!";
