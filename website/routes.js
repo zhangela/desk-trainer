@@ -26,7 +26,7 @@ Router.map(function() {
 
       // display message about how long you have slacked off for
       var minutes = this.params.distraction;
-      Session.set("distraction", minutes);
+      Session.set("distraction", parseInt(minutes, 10)/60);
       var message = null;
       if (minutes) {
         message = "You've been slacking off for " + minutes + " minutes!";
