@@ -17,16 +17,13 @@ $(function() {
         chrome.storage.sync.set({'Settings': formData});
     });
 
+    var loadOptions = function() {
+        chrome.storage.sync.get('Settings', function (result) {
+            var settings = result["Settings"];
+            FormUtils.populateForm($("form").get(0), settings);
+            $(".btn-group input:checked").parent().addClass("active");
+        });
+    };
 
-
+    loadOptions();
 });
-
-
-var loadOptions = function() {
-    chrome.storage.sync.get('Settings', function (result) {
-        var settings = result["Settings"];
-        FormUtils.populateForm($("form").get(0), settings);
-    });
-};
-
-window.addEventListener("load", loadOptions);

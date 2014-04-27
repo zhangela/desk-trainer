@@ -92,5 +92,39 @@ FormUtils = {
 
     // return the resulting tree after iterating over the whole form
     return root;
+  },
+
+  // doesn't work with radio buttons or arrays, lol
+  populateForm: function (form, object) {
+    _.each(form.elements, function (element) {
+      
+      // only works with named elements
+      if (element.name) {
+        // split the name of the input into path tokens
+        var path = element.name.split(".");
+
+        // get the node at the path
+        var node = object;
+        _.each(path, function (key) {
+          if (node) {
+            node = node[key];
+          }
+        });
+
+        var data;
+        if (node) {
+          data = node;
+        }
+
+        if (element.type === "checkbox") {
+          element.checked = !! data;
+          if (data) {
+            $(element).attr("checked", "checked");
+          }
+        } else {
+          element.value = data;
+        }
+      }
+    });
   }
 };
