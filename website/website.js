@@ -10,7 +10,7 @@ startRest = function (name, restTime, imageUrl, description) {
     name: name || "Rest",
     duration: restTime || 5,
     imageUrl: imageUrl ||
-      "http://leshayman.files.wordpress.com/2012/08/meditation.png",
+      "https://hollywoodspinster.files.wordpress.com/2011/11/homer_sleeping_on_sofa_wallpaper_-_1280x800.jpg",
     rest: true,
     description: description
   });

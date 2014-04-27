@@ -2,12 +2,6 @@
 var UPDATE_INTERVAL = 1;
 
 var DeskTrainer = {};
-DeskTrainer.totalTimeOnBlackListPerWorkout = 30 * 1000; //120 minutes on facebook until next workout
-DeskTrainer.timeLeftOnBlackList = DeskTrainer.totalTimeOnBlackListPerWorkout;
-DeskTrainer.duration = 60; // 60 seconds of workout
-DeskTrainer.activeTabUrl = null;
-DeskTrainer.activeTabId = null;
-DeskTrainer.shortenedTabUrl = null;
 
 
 WEEKDAYS = {
@@ -25,7 +19,7 @@ chrome.storage.sync.get('Settings', function (result) {
     var settings = result["Settings"];
     
     if (! settings) {
-        var defaultSettings = {
+        settings = {
             blackListUrls: "facebook.com, twitter.com, reddit.com",
             duration: 60,
             endtime: "23:59",
@@ -42,8 +36,20 @@ chrome.storage.sync.get('Settings', function (result) {
             wednesday: true
         };
 
-        chrome.storage.sync.set({'Settings': defaultSettings});
+        chrome.storage.sync.set({'Settings': settings});
     }
+
+    DeskTrainer.totalTimeOnBlackListPerWorkout = settings.totalTimeOnBlackList;
+    DeskTrainer.duration = settings.duration;
+    DeskTrainer.timeLeftOnBlackList = settings.duration;
+
+    DeskTrainer.activeTabUrl = null;
+    DeskTrainer.activeTabId = null;
+    DeskTrainer.shortenedTabUrl = null;
+
+    setInterval(DeskTrainer.getCurrentTabUrl, UPDATE_INTERVAL * 500);
+    // Update timer every UPDATE_INTERVAL seconds
+    setInterval(DeskTrainer.shouldWorkOut, UPDATE_INTERVAL * 1000);
 });
 
 DeskTrainer.getCurrentTabUrl = function() {
@@ -119,7 +125,3 @@ DeskTrainer.shouldWorkOut = function() {
         }
     });
 };
-
-setInterval(DeskTrainer.getCurrentTabUrl, UPDATE_INTERVAL * 500);
-// Update timer every UPDATE_INTERVAL seconds
-setInterval(DeskTrainer.shouldWorkOut, UPDATE_INTERVAL * 1000);
