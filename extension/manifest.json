@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "Desk Trainer",
-  "description": "Yay training.",
+  "name": "DeskTrainer",
+  "description": "",
   "version": "1.0",
 
   "background": {
