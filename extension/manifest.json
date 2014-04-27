@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "DeskTrainer",
-  "description": "",
+  "description": "DeskTrainer turns unproductive time into workout time! You choose how much time on distracting sites; DeskTrainer reminds you to work out!",
   "version": "1.0",
 
   "background": {
