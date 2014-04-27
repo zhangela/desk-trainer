@@ -32,6 +32,12 @@ var loadRandomWorkout = function () {
 };
 
 if (Meteor.isClient) {
+  Session.setDefault("muted", amplify.store("muted"));
+
+  var tickSound = new Audio("tick.mp3");
+  tickSound.volume = 0.5;
+  var dingSound = new Audio("ding.mp3");
+
   var workoutCompleted = function () {
     if (Session.get("redirectUrl")) {
       window.location.replace(Session.get("redirectUrl"));
@@ -44,16 +50,28 @@ if (Meteor.isClient) {
   var tick = function () {
     if (Session.get("playing")) {
       if (Session.get("timer") > 0) {
+        if (! Session.get("muted")) {
+          tickSound.play();
+        }
+
         Session.set("timer", Session.get("timer") - 1);
         Session.set("totalTime", Session.get("totalTime") - 1);
       }
 
       if (Session.get("totalTime") <= 0) {
+        if (! Session.get("muted")) {
+          dingSound.play();
+        }
+
         workoutCompleted();
         return;
       }
 
       if (Session.get("timer") <= 0) {
+        if (! Session.get("muted")) {
+          dingSound.play();
+        }
+
         restOrRandomWorkout();
       }
     }
@@ -76,6 +94,9 @@ if (Meteor.isClient) {
     },
     done: function () {
       return Session.get("done");
+    },
+    muted: function () {
+      return Session.get("muted");
     }
   });
 
@@ -85,6 +106,14 @@ if (Meteor.isClient) {
     },
     "click .pause": function () {
       Session.set("playing", false);
+    },
+    "click .mute": function () {
+      Session.set("muted", true);
+      amplify.store("muted", true);
+    },
+    "click .unmute": function () {
+      Session.set("muted", false);
+      amplify.store("muted", false);
     }
   });
 
