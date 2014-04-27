@@ -6,17 +6,19 @@ DeskTrainer.timeSpentOnBlackList = 0;
 DeskTrainer.totalTimeOnBlackListPerWorkout = 10;
 DeskTrainer.activeTabUrl = null;
 DeskTrainer.activeTabId = null;
+DeskTrainer.shortenedTabUrl = null;
 
 DeskTrainer.getCurrentTabUrl = function() {
     chrome.tabs.getSelected(null, function(tab){
-      DeskTrainer.activeTabUrl = tab.url.match(/^[\w-]+:\/*\[?([\w\.:-]+)\]?(?::\d+)?/)[1];
+        DeskTrainer.shortenedTabUrl = tab.url.match(/^[\w-]+:\/*\[?([\w\.:-]+)\]?(?::\d+)?/)[1];
+        DeskTrainer.activeTabUrl = tab.url;
     });
 };
 
 DeskTrainer.executeIfCurrentUrlIsOnBlackList = function(callback) {
     chrome.storage.sync.get("BLOCKED_URLS", function (urls) {
         var blockedUrls = urls["BLOCKED_URLS"] || [];
-        var currentUrl = DeskTrainer.activeTabUrl;
+        var currentUrl = DeskTrainer.shortenedTabUrl;
 
         blockedUrls.forEach(function(blockedUrl) {
             if (currentUrl.indexOf(blockedUrl) > -1) {

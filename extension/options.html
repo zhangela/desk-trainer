@@ -2,13 +2,84 @@
     <head>
         <title>Desk Trainer Settings</title>
         <script type="text/javascript" src="options.js"></script>
+        <link href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
     </head>
     <body>
-        <b>Sites To Block</b>
-        <textarea id="textarea_urls_to_block" style="width:300px; height:100px;"></textarea>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
 
-        <div>
-            <button class="btn_save">Save</button>
+                    <div class="page-header">
+                        <h3>Desk Trainer Settings</h3>
+                    </div>
+
+                    <div class="form-group">
+                        <h4>Distracting Sites</h4>
+                        <p style="color: gray">A list of comma/new line/space separated websites</p>
+                        <textarea id="textarea_urls_to_block" style="width:300px; height:100px;"></textarea>
+                    </div>
+
+                    <div class="form-group">
+                        <h4>Total Time</h4>
+                        <p style="color: gray">The total time across all distracting sites you can spend before we prompt you to work out</p>
+                        <input id="total_time"></input>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="page-header">
+                        <h3>Workout Settings</h3>
+                    </div>
+
+                    <h4>Activity Days</h4>
+
+                    <div class="btn-group" data-toggle="buttons">
+                        <label class="btn btn-default">
+                            <input type="checkbox">Mon
+                        </label>
+                        <label class="btn btn-default">
+                            <input type="checkbox">Tues
+                        </label>
+                        <label class="btn btn-default">
+                        <input type="checkbox">Wed
+                        </label>
+                        <label class="btn btn-default">
+                            <input type="checkbox">Thur
+                        </label>
+                        <label class="btn btn-default">
+                            <input type="checkbox">Fri
+                        </label>
+                        <label class="btn btn-default">
+                            <input type="checkbox">Sat
+                        </label>
+                        <label class="btn btn-default">
+                            <input type="checkbox">Sun
+                        </label>
+                    </div>
+
+                    <div class="form-group">
+                        <h4>Activity Time</h4>
+                        <input type="time"></input>
+                    </div>
+                    
+                    <div class="form-group">
+                        <h4>Workout Breaks</h4>
+                        <input id="breaks" type="number"></input> minutes
+                    </div>
+                    
+                    <div class="form-group">
+                        <h4>Workout Duration</h4>
+                        <input id="duration" type="number"></input> minutes
+                    </div>
+
+                    <div class="form-group">
+                        <input type="checkbox"> Add 30 seconds penalty for delaying workout</input>
+                    </div>
+
+                    <div class="form-group">
+                        <button class="btn btn-default btn-primary btn_save">Save</button>
+                    </div>
+                </div>
+            </div>
         </div>
     </body>
 </html>
