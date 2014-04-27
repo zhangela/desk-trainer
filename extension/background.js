@@ -2,7 +2,7 @@
 var UPDATE_INTERVAL = 1;
 
 var DeskTrainer = {};
-DeskTrainer.timeSpentOnBlackList = 0;
+DeskTrainer.timeLeftOnBlackList = 0;
 DeskTrainer.totalTimeOnBlackListPerWorkout = 10;
 DeskTrainer.activeTabUrl = null;
 DeskTrainer.activeTabId = null;
@@ -29,8 +29,8 @@ DeskTrainer.executeIfCurrentUrlIsOnBlackList = function(callback) {
 };
 
 DeskTrainer.hasTimerRanOut = function() {
-    if (DeskTrainer.totalTimeOnBlackListPerWorkout <= DeskTrainer.timeSpentOnBlackList) {
-        DeskTrainer.timeSpentOnBlackList = 0;
+    if (DeskTrainer.timeLeftOnBlackList <= 0) {
+        DeskTrainer.timeLeftOnBlackList = DeskTrainer.totalTimeOnBlackListPerWorkout;
         return true;
     }
 };
@@ -38,8 +38,8 @@ DeskTrainer.hasTimerRanOut = function() {
 DeskTrainer.shouldWorkOut = function() {
 
     DeskTrainer.executeIfCurrentUrlIsOnBlackList(function() {
-        DeskTrainer.timeSpentOnBlackList += UPDATE_INTERVAL;
-        console.log(DeskTrainer.timeSpentOnBlackList);
+        DeskTrainer.timeLeftOnBlackList -= UPDATE_INTERVAL;
+        console.log(DeskTrainer.timeLeftOnBlackList);
         if (DeskTrainer.hasTimerRanOut()) {
             chrome.tabs.update(DeskTrainer.activeTabId, {url: "http://desktrainer.meteor.com/workout?redirect=" + DeskTrainer.activeTabUrl});
         }

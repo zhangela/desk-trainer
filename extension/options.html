@@ -1,84 +1,93 @@
 <html>
     <head>
         <title>Desk Trainer Settings</title>
-        <script type="text/javascript" src="options.js"></script>
         <link href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
+        <script type="text/javascript" src="jquery-2.1.0.min.js"></script>
+        <script type="text/javascript" src="underscore-min.js"></script>
+        <script type="text/javascript" src="form-utils.js"></script>
+        <script type="text/javascript" src="options.js"></script>
+        <script type="text/javascript" src="bootstrap.min.js"></script>
     </head>
+
     <body>
         <div class="container">
             <div class="row">
-                <div class="col-md-6">
 
-                    <div class="page-header">
-                        <h3>Desk Trainer Settings</h3>
-                    </div>
+                <form>
+                    <div class="col-md-6">
 
-                    <div class="form-group">
-                        <h4>Distracting Sites</h4>
-                        <p style="color: gray">A list of comma/new line/space separated websites</p>
-                        <textarea id="textarea_urls_to_block" style="width:300px; height:100px;"></textarea>
-                    </div>
+                        <div class="page-header">
+                            <h3>Desk Trainer Settings</h3>
+                        </div>
 
-                    <div class="form-group">
-                        <h4>Total Time</h4>
-                        <p style="color: gray">The total time across all distracting sites you can spend before we prompt you to work out</p>
-                        <input id="total_time"></input>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="page-header">
-                        <h3>Workout Settings</h3>
-                    </div>
+                        <div class="form-group">
+                            <h4>Distracting Sites</h4>
+                            <p style="color: gray">A list of comma/new line/space separated websites</p>
+                            <textarea name="blackListUrls" style="width:300px; height:100px;"></textarea>
+                        </div>
 
-                    <h4>Activity Days</h4>
+                        <div class="form-group">
+                            <h4>Total Time</h4>
+                            <p style="color: gray">The total time across all distracting sites you can spend before we prompt you to work out</p>
+                            <input name="totalTimeOnBlackList"></input>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="page-header">
+                            <h3>Workout Settings</h3>
+                        </div>
 
-                    <div class="btn-group" data-toggle="buttons">
-                        <label class="btn btn-default">
-                            <input type="checkbox">Mon
-                        </label>
-                        <label class="btn btn-default">
-                            <input type="checkbox">Tues
-                        </label>
-                        <label class="btn btn-default">
-                        <input type="checkbox">Wed
-                        </label>
-                        <label class="btn btn-default">
-                            <input type="checkbox">Thur
-                        </label>
-                        <label class="btn btn-default">
-                            <input type="checkbox">Fri
-                        </label>
-                        <label class="btn btn-default">
-                            <input type="checkbox">Sat
-                        </label>
-                        <label class="btn btn-default">
-                            <input type="checkbox">Sun
-                        </label>
-                    </div>
+                        <h4>Active Days</h4>
 
-                    <div class="form-group">
-                        <h4>Activity Time</h4>
-                        <input type="time"></input>
-                    </div>
-                    
-                    <div class="form-group">
-                        <h4>Workout Breaks</h4>
-                        <input id="breaks" type="number"></input> minutes
-                    </div>
-                    
-                    <div class="form-group">
-                        <h4>Workout Duration</h4>
-                        <input id="duration" type="number"></input> minutes
-                    </div>
+                        <div class="btn-group" data-toggle="buttons">
+                            <label class="btn btn-default">
+                                <input name="monday" type="checkbox">Mon
+                            </label>
+                            <label class="btn btn-default">
+                                <input name="tuesday" type="checkbox">Tues
+                            </label>
+                            <label class="btn btn-default">
+                            <input name="wednesday" type="checkbox">Wed
+                            </label>
+                            <label class="btn btn-default">
+                                <input name="thursday" type="checkbox">Thur
+                            </label>
+                            <label class="btn btn-default">
+                                <input name="friday" type="checkbox">Fri
+                            </label>
+                            <label class="btn btn-default">
+                                <input name="saturday" type="checkbox">Sat
+                            </label>
+                            <label class="btn btn-default">
+                                <input name="sunday" type="checkbox">Sun
+                            </label>
+                        </div>
 
-                    <div class="form-group">
-                        <input type="checkbox"> Add 30 seconds penalty for delaying workout</input>
-                    </div>
+                        <div class="form-group">
+                            <h4>Daily Start/End Time</h4>
+                            Start: <input name="starttime" type="time"></input>
+                            End: <input name="endtime" type="time"></input>
+                        </div>
+                        
+<!--                         <div class="form-group">
+                            <h4>Workout Breaks</h4>
+                            <input name="breaks" type="number"></input> minutes
+                        </div> -->
+                        
+                        <div class="form-group">
+                            <h4>Workout Duration</h4>
+                            <input name="duration" type="number"></input> minutes
+                        </div>
 
-                    <div class="form-group">
-                        <button class="btn btn-default btn-primary btn_save">Save</button>
+                        <div class="form-group">
+                            <input name="penalty" type="checkbox"> Add 30 seconds penalty for delaying workout</input>
+                        </div>
+
+                        <div class="form-group">
+                            <button class="btn btn-default btn-primary btn_save">Save</button>
+                        </div>
                     </div>
-                </div>
+                </form>
             </div>
         </div>
     </body>
