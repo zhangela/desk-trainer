@@ -8,6 +8,32 @@ DeskTrainer.activeTabUrl = null;
 DeskTrainer.activeTabId = null;
 DeskTrainer.shortenedTabUrl = null;
 
+// if there are no settings, set default settings
+chrome.storage.sync.get('Settings', function (result) {
+    var settings = result["Settings"];
+    
+    if (! settings) {
+        var defaultSettings = {
+            blackListUrls: "facebook.com, twitter.com, reddit.com",
+            duration: 120,
+            endtime: "23:59",
+            friday: true,
+            monday: true,
+            penalty: true,
+            saturday: true,
+            splitBlackListUrls: ["facebook.com", "twitter.com", "reddit.com"],
+            starttime: "00:00",
+            sunday: true,
+            thursday: true,
+            totalTimeOnBlackList: 120,
+            tuesday: true,
+            wednesday: true
+        };
+
+        chrome.storage.sync.set({'Settings': defaultSettings});
+    }
+});
+
 DeskTrainer.getCurrentTabUrl = function() {
     chrome.tabs.getSelected(null, function(tab){
         DeskTrainer.shortenedTabUrl = tab.url.match(/^[\w-]+:\/*\[?([\w\.:-]+)\]?(?::\d+)?/)[1];

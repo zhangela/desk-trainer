@@ -50,20 +50,20 @@ FormUtils = {
           node = node[pathNode];
         });
 
-        // parse numbers if input fields of type number are encountered
-        if (el.type === "number") {
-          el.value = parseFloat(el.value, 10);
-          if (isNaN(el.value)) {
-            el.value = 0;
-          }
-        }
-
         // check for names with brackets at the end
         var isListAttribute = function (name) {
           return name[name.length - 1] === "]" && name.indexOf("[") !== -1;
         };
 
         var value = el.value;
+
+        // parse numbers if input fields of type number are encountered
+        if (el.type === "number") {
+          value = parseFloat(el.value, 10);
+          if (isNaN(value)) {
+            value = 0;
+          }
+        }
 
         if (el.type === "checkbox") {
           value = el.checked;
