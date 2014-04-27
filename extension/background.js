@@ -3,7 +3,7 @@ var UPDATE_INTERVAL = 1;
 
 var DeskTrainer = {};
 DeskTrainer.timeLeftOnBlackList = 0;
-DeskTrainer.totalTimeOnBlackListPerWorkout = 120 * 1000; //120 minutes on facebook until next workout
+DeskTrainer.totalTimeOnBlackListPerWorkout = 30 * 1000; //120 minutes on facebook until next workout
 DeskTrainer.duration = 60; // 60 seconds of workout
 DeskTrainer.activeTabUrl = null;
 DeskTrainer.activeTabId = null;
@@ -27,7 +27,7 @@ chrome.storage.sync.get('Settings', function (result) {
     if (! settings) {
         var defaultSettings = {
             blackListUrls: "facebook.com, twitter.com, reddit.com",
-            duration: 120,
+            duration: 60,
             endtime: "23:59",
             friday: true,
             monday: true,
@@ -37,7 +37,7 @@ chrome.storage.sync.get('Settings', function (result) {
             starttime: "00:00",
             sunday: true,
             thursday: true,
-            totalTimeOnBlackList: 120,
+            totalTimeOnBlackList: 30,
             tuesday: true,
             wednesday: true
         };
