@@ -7,56 +7,77 @@
 
 <template name="clock">
   <svg class="clock" viewBox="0 0 100 100">
-    <path id="arc1" fill="#ddd"
+    <path id="arc1" fill="#75a7d9"
       d="{{arcPath}}" />
   </svg>
+</template>
+
+<template name="endScreen">
+  <div class="text-center narrow">
+    <br />
+    <br />
+
+    <h1>Congratulations!</h1>
+
+    <form class="form-inline">
+      <p class="lead">You just worked out for {{duration}} seconds!</p>
+      <p>Don't let that time be forgotten - put in your email address to get weekly workout summaries! You'll get one email a week with a total of your results.</p>
+      <input type="email" name="email" class="form-control wide-input" value="{{email}}" />
+
+      {{#if saved}}
+        <a href="#" class="btn btn-success">Results Saved!</a>
+      {{else}}
+        <button class="btn btn-primary">Save Your Results</button>
+      {{/if}}
+    </form>
+
+    <br />
+    <br />
+
+    {{#if backUrl}}
+      <a href="{{backUrl}}" class="btn btn-lg btn-default">
+        Get Back to Work!</a>
+    {{/if}}
+  </div>
 </template>
 
 <template name="workout">
   {{> clock}}
 
-  <div class="container">
-    {{#if done}}
-      <div class="text-center">
-        <h1>You're done!</h1>
-      </div>
-    {{else}}
-      <h3>
-        DeskTrainer
+  {{#if done}}
+    {{> endScreen}}
+  {{else}}
+    <h3 class="brand">DeskTrainer</h3>
 
-        <span class="pull-right">
-          Total time left: {{totalTimer}}
+    <div class="tools">
+      Total Time: {{totalTimer}} &nbsp;
 
-          {{#if playing}}
-            <button role="button" class="pause btn btn-primary">Pause</button>
-          {{else}}
-            <button role="button" class="start btn btn-primary">Start</button>
-          {{/if}}
+      {{#if playing}}
+        <button role="button" class="pause btn btn-default">Pause</button>
+      {{else}}
+        <button role="button" class="start btn btn-default">Start</button>
+      {{/if}}
 
-          {{#if muted}}
-            <button role="button" class="unmute btn btn-default">
-              <span class="glyphicon glyphicon-volume-up"></span>
-            </button>
-          {{else}}
-            <button role="button" class="mute btn btn-default">
-              <span class="glyphicon glyphicon-volume-off"></span>
-            </button>
-          {{/if}}
-        </span>
-      </h3>
+      {{#if muted}}
+        <button role="button" class="unmute btn btn-primary">
+          <span class="glyphicon glyphicon-volume-up"></span>
+        </button>
+      {{else}}
+        <button role="button" class="mute btn btn-primary">
+          <span class="glyphicon glyphicon-volume-off"></span>
+        </button>
+      {{/if}}
+    </div>
 
-      <hr />
-
-      <div class="text-center workout-box">
-        {{#with currentWorkout}}
-          <h3>{{timer}} more seconds of</h3>
-          <h1>{{name}}</h1>
-          <p class="lead">{{description}}</p>
-          <img src="{{imageUrl}}" class="workout-image" />
-        {{/with}}
-      </div>
-    {{/if}}
-  </div>
+    <div class="text-center workout-box">
+      {{#with currentWorkout}}
+        <img src="{{imageUrl}}" class="workout-image" />
+        <h3>{{timer}} more seconds</h3>
+        <h1>{{name}}</h1>
+        <p class="lead">{{description}}</p>
+      {{/with}}
+    </div>
+  {{/if}}
 </template>
 
 <template name="addWorkout">

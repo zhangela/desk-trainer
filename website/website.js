@@ -21,7 +21,8 @@ var restOrRandomWorkout = function () {
     Session.get("currentWorkout").rest) {
       loadRandomWorkout();
     } else {
-      startRest("Rest", 5);
+      startRest("Rest", 8, "http://www.inboundnow.com/wp-content/uploads/edd/2014/02/constant-contact-header.gif",
+        "brought to you by Constant Contact");
     }
 };
 
@@ -134,6 +135,37 @@ if (Meteor.isClient) {
   Template.addWorkout.helpers({
     workouts: function () {
       return Workouts.find().fetch();
+    }
+  });
+
+  Template.endScreen.helpers({
+    duration: function () {
+      return Session.get("workoutDuration");
+    },
+    email: function () {
+      return amplify.store("email");
+    },
+    backUrl: function () {
+      return Session.get("redirectUrl");
+    },
+    saved: function () {
+      return Session.get("emailSaved");
+    }
+  });
+
+  Template.endScreen.events({
+    "submit form": function (event, template) {
+      event.preventDefault();
+
+      var email = template.find("input").value;
+
+      amplify.store("email", email);
+
+      Meteor.call("updateContact",
+        email, Session.get("workoutDuration"), Session.get("distraction"),
+        function (error, result) {
+          Session.set("emailSaved", true);
+        });
     }
   });
 }
