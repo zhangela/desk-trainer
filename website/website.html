@@ -32,6 +32,16 @@
           {{else}}
             <button role="button" class="start btn btn-primary">Start</button>
           {{/if}}
+
+          {{#if muted}}
+            <button role="button" class="unmute btn btn-default">
+              <span class="glyphicon glyphicon-volume-up"></span>
+            </button>
+          {{else}}
+            <button role="button" class="mute btn btn-default">
+              <span class="glyphicon glyphicon-volume-off"></span>
+            </button>
+          {{/if}}
         </span>
       </h3>
 
