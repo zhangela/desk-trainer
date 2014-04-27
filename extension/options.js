@@ -1,12 +1,12 @@
 var splitOnCommaAndStripSpaces = function(str_list) {
-    return str_list.replace(/^\s+|\s+$/g,"").split(/\s*,\s*/);
+    // first one replaces trailing commas
+    // second one removes space
+    // then split by comma
+    var li = str_list.replace(/,+$/, "").replace(/^\s+|\s+$/g,"").split(/\s*,\s*/);
+    return li.filter(function(item) {
+        return item;
+    });
 };
-
-// var saveOptions = function() {
-//     var el_entries = document.getElementById('textarea_urls_to_block');
-//     var entries = el_entries.value;
-//     chrome.storage.sync.set({'BLOCKED_URLS': splitOnCommaAndStripSpaces(entries)});
-// };
 
 $(function() {
     $("form").submit(function(event) {
