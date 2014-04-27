@@ -14,7 +14,7 @@ Router.map(function() {
         totalTime = parseInt(this.params.duration, 10);
       }
 
-      Session.setDefault("totalTime", totalTime);
+      Session.setDefault("totalTime", totalTime + 10);
 
       // display message about how long you have slacked off for
       var minutes = this.params.distraction;
