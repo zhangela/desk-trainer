@@ -66,7 +66,12 @@ DeskTrainer.executeIfProcrastinating = function(callback) {
     chrome.storage.sync.get("Settings", function (result) {
 
         // set this value here in case if it changed
-        DeskTrainer.totalTimeOnBlackListPerWorkout = result["Settings"]["totalTimeOnBlackList"] * 60; //already in seconds
+        if (result["Settings"]["totalTimeOnBlackList"] * 60 !== DeskTrainer.totalTimeOnBlackListPerWorkout) {
+            DeskTrainer.totalTimeOnBlackListPerWorkout = result["Settings"]["totalTimeOnBlackList"] * 60; //already in seconds
+            // restart counter
+            DeskTrainer.timeLeftOnBlackList = DeskTrainer.totalTimeOnBlackListPerWorkout;
+        }
+
         DeskTrainer.duration = result["Settings"]["duration"];
 
         var now = new Date();
@@ -113,6 +118,7 @@ DeskTrainer.hasTimerRanOut = function() {
 
 DeskTrainer.shouldWorkOut = function() {
     DeskTrainer.executeIfProcrastinating(function() {
+
         DeskTrainer.timeLeftOnBlackList -= UPDATE_INTERVAL;
         console.log(DeskTrainer.timeLeftOnBlackList);
         if (DeskTrainer.hasTimerRanOut()) {
