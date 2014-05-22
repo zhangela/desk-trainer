@@ -1,0 +1,2750 @@
+<div id="header_wrapper">
+  
+
+<div id="nav_menu" style="display: none;" rel:gt_cat="[ttp]:header/menu">
+  <div class="nav-menu-content">
+    <div id="nav_menu_right">
+      <ul id="nav_menu_vertical_list">
+        
+          <li id="nav_menu_world" class="nav_menu_vertical">
+          <a href="/world" rel:gt_act="world">
+            
+            world 
+            </a>
+          </li>
+        
+          <li id="nav_menu_politics" class="nav_menu_vertical">
+          <a href="/politics" rel:gt_act="politics">
+            
+            politics 
+            </a>
+          </li>
+        
+          <li id="nav_menu_business" class="nav_menu_vertical">
+          <a href="/business" rel:gt_act="business">
+            
+            business 
+            </a>
+          </li>
+        
+          <li id="nav_menu_tech" class="nav_menu_vertical">
+          <a href="/tech" rel:gt_act="tech">
+            
+            tech 
+            </a>
+          </li>
+        
+          <li id="nav_menu_sports" class="nav_menu_vertical">
+          <a href="/sports" rel:gt_act="sports">
+            
+            sports 
+            </a>
+          </li>
+        
+          <li id="nav_menu_longform" class="nav_menu_vertical">
+          <a href="/longform" rel:gt_act="longform">
+            
+            longform 
+            </a>
+          </li>
+        
+          <li id="nav_menu_ideas" class="nav_menu_vertical">
+          <a href="/ideas" rel:gt_act="ideas">
+            
+            ideas 
+            </a>
+          </li>
+        
+          <li id="nav_menu_entertainment" class="nav_menu_vertical">
+          <a href="/entertainment" rel:gt_act="entertainment">
+            
+            entertainment 
+            </a>
+          </li>
+        
+          <li id="nav_menu_celebrity" class="nav_menu_vertical">
+          <a href="/celebrity" rel:gt_act="celebrity">
+            
+            celebrity 
+            </a>
+          </li>
+        
+          <li id="nav_menu_music" class="nav_menu_vertical">
+          <a href="/music" rel:gt_act="music">
+            
+            music 
+            </a>
+          </li>
+        
+          <li id="nav_menu_rewind" class="nav_menu_vertical">
+          <a href="/rewind" rel:gt_act="rewind">
+            
+            rewind 
+            </a>
+          </li>
+        
+          <li id="nav_menu_books" class="nav_menu_vertical">
+          <a href="/books" rel:gt_act="books">
+            
+            books 
+            </a>
+          </li>
+        
+          <li id="nav_menu_comics" class="nav_menu_vertical">
+          <a href="/comics" rel:gt_act="comics">
+            
+            comics 
+            </a>
+          </li>
+        
+          <li id="nav_menu_animals" class="nav_menu_vertical">
+          <a href="/animals" rel:gt_act="animals">
+            
+            animals 
+            </a>
+          </li>
+        
+          <li id="nav_menu_food" class="nav_menu_vertical">
+          <a href="/food" rel:gt_act="food">
+            
+            food 
+            </a>
+          </li>
+        
+          <li id="nav_menu_diy" class="nav_menu_vertical">
+          <a href="/diy" rel:gt_act="diy">
+            
+            diy 
+            </a>
+          </li>
+        
+          <li id="nav_menu_lgbt" class="nav_menu_vertical">
+          <a href="/lgbt" rel:gt_act="lgbt">
+            
+            lgbt 
+            </a>
+          </li>
+        
+          <li id="nav_menu_geeky" class="nav_menu_vertical">
+          <a href="/geeky" rel:gt_act="geeky">
+            
+            geeky 
+            </a>
+          </li>
+        
+          <li id="nav_menu_travel" class="nav_menu_vertical">
+          <a href="/travel" rel:gt_act="travel">
+            
+            travel 
+            </a>
+          </li>
+        
+          <li id="nav_menu_style" class="nav_menu_vertical">
+          <a href="/style" rel:gt_act="style">
+            
+            style 
+            </a>
+          </li>
+        
+          <li id="nav_menu_all-videos" class="nav_menu_vertical">
+          <a href="/video" rel:gt_act="all-videos">
+            
+            all videos 
+            </a>
+          </li>
+        
+          <li id="nav_menu_ov-original-videos" class="nav_menu_vertical">
+          <a href="/video" rel:gt_act="ov-original-videos">
+            
+            original videos 
+            </a>
+          </li>
+        
+          <li id="nav_menu_ov-life-hacks" class="nav_menu_vertical">
+          <a href="javascript:void(0)" rel:gt_act="ov-life-hacks">
+            
+            <span class="unicode bullett">•</span>life hacks 
+            </a>
+          </li>
+        
+          <li id="nav_menu_ov-awesome-science" class="nav_menu_vertical">
+          <a href="javascript:void(0)" rel:gt_act="ov-awesome-science">
+            
+            <span class="unicode bullett">•</span>awesome science 
+            </a>
+          </li>
+        
+          <li id="nav_menu_ov-quizzes" class="nav_menu_vertical">
+          <a href="javascript:void(0)" rel:gt_act="ov-quizzes">
+            
+            <span class="unicode bullett">•</span>quizzes 
+            </a>
+          </li>
+        
+          <li id="nav_menu_ov-animals" class="nav_menu_vertical">
+          <a href="javascript:void(0)" rel:gt_act="ov-animals">
+            
+            <span class="unicode bullett">•</span>animals 
+            </a>
+          </li>
+        
+          <li id="nav_menu_ov-greatest-hits" class="nav_menu_vertical">
+          <a href="javascript:void(0)" rel:gt_act="ov-greatest-hits">
+            
+            <span class="unicode bullett">•</span>greatest hits 
+            </a>
+          </li>
+        
+          <li id="nav_menu_ov-buzzfacts" class="nav_menu_vertical">
+          <a href="javascript:void(0)" rel:gt_act="ov-buzzfacts">
+            
+            <span class="unicode bullett">•</span>buzzfacts 
+            </a>
+          </li>
+        
+          <li id="nav_menu_hot" class="nav_menu_vertical">
+          <a href="/hot" rel:gt_act="hot">
+            
+            hot 
+            </a>
+          </li>
+        
+          <li id="nav_menu_quiz" class="nav_menu_vertical">
+          <a href="/quiz" rel:gt_act="quiz">
+            
+            quizzes 
+            </a>
+          </li>
+        
+          <li id="nav_menu_community" class="nav_menu_vertical">
+          <a href="/community" rel:gt_act="community">
+            
+            community 
+            </a>
+          </li>
+        
+          <li id="nav_menu_gif_feed" class="nav_menu_vertical">
+          <a href="/giffeed" rel:gt_act="gif_feed">
+            
+            gif feed 
+            </a>
+          </li>
+        
+          <li id="nav_menu_breaking" class="nav_menu_vertical">
+          <a href="/breaking" rel:gt_act="breaking">
+            
+            breaking 
+            </a>
+          </li>
+        
+          <li id="nav_menu_copyranter" class="nav_menu_vertical">
+          <a href="/copyranter" rel:gt_act="copyranter">
+            
+            copyranter 
+            </a>
+          </li>
+        
+          <li id="nav_menu_uk" class="nav_menu_vertical">
+          <a href="/uk" rel:gt_act="uk">
+            
+            uk 
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+    <div id="nav_menu_left">
+      <!-- X---HEADER-BAR---X -@- /plugin/navigationbar/v:1.2 -->  
+<ul id="nav_preview_uk" class="nav_preview a">
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="uk" href="/patricksmith/unbelievably-sexist-adverts-from-classic-magazines" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr07/1/12/15-unbelievably-sexist-adverts-from-the-1970s-2-4888-1398961667-11.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="uk" href="/patricksmith/unbelievably-sexist-adverts-from-classic-magazines">
+            <span class="title_small">15 Unbelievably Sexist Adverts From The 1970s</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="uk" href="/robynwilder/delightfully-sweary-cross-stitches-you-need-to-have-in-yo" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr05/4/5/21-delightfully-sweary-cross-stitches-you-need-in-2-13540-1399196550-4.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="uk" href="/robynwilder/delightfully-sweary-cross-stitches-you-need-to-have-in-yo">
+            <span class="title_small">21 Delightfully Sweary Cross Stitches You Need In Your Life</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="uk" href="/tabathaleggett/people-who-love-mayonnaise-way-too-much" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr05/1/20/17-people-who-are-way-too-obsessed-with-mayonnaise-2-4031-1398988965-9.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="uk" href="/tabathaleggett/people-who-love-mayonnaise-way-too-much">
+            <span class="title_small">17 People Who Are Way Too Obsessed With Mayonnaise</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="uk" href="/lukebailey/tremendously-british-successes" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr08/5/14/29-tremendous-british-successes-2-30049-1399314208-16.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="uk" href="/lukebailey/tremendously-british-successes">
+            <span class="title_small">29 Wins That Only British People Will Understand</span>
+          </a>
+        </li>
+      
+    
+  
+  
+  <a rel:gt_act="vertical/more" rel:gt_label="uk" href="/uk" class="more_vertical">
+    <span class="pointer unicode">▶</span> 
+    MORE UK
+  </a>
+  
+</ul>
+
+<ul id="nav_preview_copyranter" class="nav_preview a">
+  
+  
+  <a rel:gt_act="vertical/more" rel:gt_label="copyranter" href="/copyranter" class="more_vertical">
+    <span class="pointer unicode">▶</span> 
+    MORE COPYRANTER
+  </a>
+  
+</ul>
+
+<ul id="nav_preview_ov-quizzes" class="nav_preview a">
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="ov-quizzes" href="/video/jamiereneewilliams/whats-your-celebrity-zodiac-match-up" class="thumb_warpper">
+            <img src="http://s3-ak.buzzfed.com/static/images/public/videopage/play_icon.png" class="video_play_button" nopin="nopin">
+            <img src="http://s3-ak.buzzfeed.com/static/2013-12/campaign_images/webdr07/10/0/whats-your-celebrity-zodiac-match-up-1-9397-1386651994-16.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="ov-quizzes" href="/video/jamiereneewilliams/whats-your-celebrity-zodiac-match-up">
+            <span class="title_small">What's Your Celebrity Zodiac Match-Up?</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="ov-quizzes" href="/video/justindailey/what-do-you-know-about-the-legend-of-video-games" class="thumb_warpper">
+            <img src="http://s3-ak.buzzfed.com/static/images/public/videopage/play_icon.png" class="video_play_button" nopin="nopin">
+            <img src="http://s3-ak.buzzfeed.com/static/2014-04/campaign_images/webdr03/25/14/how-well-do-you-know-your-super-mario-1-32559-1398452019-13.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="ov-quizzes" href="/video/justindailey/what-do-you-know-about-the-legend-of-video-games">
+            <span class="title_small">How Well Do You Know Your Super Mario?</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="ov-quizzes" href="/video/micaela/boobs-or-not" class="thumb_warpper">
+            <img src="http://s3-ak.buzzfed.com/static/images/public/videopage/play_icon.png" class="video_play_button" nopin="nopin">
+            <img src="http://s3-ak.buzzfeed.com/static/2013-10/campaign_images/webdr02/30/20/boobs-or-not-1-2072-1383179230-7.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="ov-quizzes" href="/video/micaela/boobs-or-not">
+            <span class="title_small">Boobs Or Not</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="ov-quizzes" href="/video/jerrysoda/what-did-these-celebs-do-before-they-were-famous" class="thumb_warpper">
+            <img src="http://s3-ak.buzzfed.com/static/images/public/videopage/play_icon.png" class="video_play_button" nopin="nopin">
+            <img src="http://s3-ak.buzzfeed.com/static/2014-04/campaign_images/webdr08/30/17/what-did-these-celebs-do-before-they-were-famous-1-15903-1398894393-0.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="ov-quizzes" href="/video/jerrysoda/what-did-these-celebs-do-before-they-were-famous">
+            <span class="title_small">What Did These Celebs Do Before They Were Famous?</span>
+          </a>
+        </li>
+      
+    
+  
+  
+</ul>
+
+<ul id="nav_preview_comics" class="nav_preview a">
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="comics" href="/adamellis/my-first-spring-break-on-my-own-almost-turned-into-a-horror" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr03/1/15/my-first-spring-break-on-my-own-almost-turned-int-2-7072-1398971957-2.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="comics" href="/adamellis/my-first-spring-break-on-my-own-almost-turned-into-a-horror">
+            <span class="title_small">My First Spring Break On My Own Almost Turned Into A Horror Movie</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="comics" href="/catandgirl/reunion" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr05/2/13/how-everyone-feels-at-school-reunions-2-20194-1399050172-47.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="comics" href="/catandgirl/reunion">
+            <span class="title_small">How Everyone Feels At School Reunions</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="comics" href="/smbc/older" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr07/5/16/an-accurate-wordless-comic-about-growing-older-2-15460-1399323583-10.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="comics" href="/smbc/older">
+            <span class="title_small">An Accurate, Wordless Comic About Growing Older</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="comics" href="/kevintang/when-pregnancy-butts-against-gender-presenation" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr03/1/10/when-pregnancy-pushes-against-gender-presentation-2-16133-1398954689-3.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="comics" href="/kevintang/when-pregnancy-butts-against-gender-presenation">
+            <span class="title_small">When Pregnancy Pushes Against Gender Presentation</span>
+          </a>
+        </li>
+      
+    
+  
+  
+  <a rel:gt_act="vertical/more" rel:gt_label="comics" href="/comics" class="more_vertical">
+    <span class="pointer unicode">▶</span> 
+    MORE COMICS
+  </a>
+  
+</ul>
+
+<ul id="nav_preview_community" class="nav_preview a">
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="community" href="/travisrandg/32-famous-felines-as-youve-never-seen-them-before-5d61" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr08/1/18/32-famous-felines-as-youve-never-seen-them-before-2-9520-1398984881-10.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="community" href="/travisrandg/32-famous-felines-as-youve-never-seen-them-before-5d61">
+            <span class="title_small">32 Famous Felines As You've Never Seen Them Before</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="community" href="/rachelc19/23-easy-dessert-bars-that-will-leave-you-drooling-4emp" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr04/6/16/23-easy-dessert-bars-that-will-leave-you-drooling-2-21391-1399406426-0.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="community" href="/rachelc19/23-easy-dessert-bars-that-will-leave-you-drooling-4emp">
+            <span class="title_small">23 Easy Dessert Bars That Will Leave You Drooling</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="community" href="/taskme/20-hilarious-cards-to-make-your-mom-laugh-this-mot-g02m" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-04/campaign_images/webdr03/30/17/20-hilarious-cards-to-make-your-mom-laugh-this-mo-2-6750-1398891624-21.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="community" href="/taskme/20-hilarious-cards-to-make-your-mom-laugh-this-mot-g02m">
+            <span class="title_small">20 Hilarious Cards To Make Your Mom Laugh This Mother's Day</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="community" href="/kimcarmona/finals-told-by-harry-potter-gifs-eb6x" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr04/3/10/college-finals-as-told-by-harry-potter-gifs-2-16214-1399127003-9.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="community" href="/kimcarmona/finals-told-by-harry-potter-gifs-eb6x">
+            <span class="title_small">College Finals As Told By Harry Potter GIFs</span>
+          </a>
+        </li>
+      
+    
+  
+  
+  <a rel:gt_act="vertical/more" rel:gt_label="community" href="/community" class="more_vertical">
+    <span class="pointer unicode">▶</span> 
+    MORE COMMUNITY
+  </a>
+  
+</ul>
+
+<ul id="nav_preview_travel" class="nav_preview a">
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="travel" href="/laurastudarus/trips-for-animal-lovers" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-04/campaign_images/webdr06/30/20/17-amazing-trips-for-animal-lovers-2-21245-1398903745-5.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="travel" href="/laurastudarus/trips-for-animal-lovers">
+            <span class="title_small">17 Amazing Trips For Animal Lovers</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="travel" href="/laraparker/places-all-game-of-thrones-fans-need-to-visit" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr04/4/13/11-places-all-game-of-thrones-fans-need-to-visit-2-13937-1399225883-10.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="travel" href="/laraparker/places-all-game-of-thrones-fans-need-to-visit">
+            <span class="title_small">11 Places All "Game Of Thrones" Fans Need To Visit</span>
+          </a>
+        </li>
+      
+    
+  
+    
+  
+    
+  
+  
+  <a rel:gt_act="vertical/more" rel:gt_label="travel" href="/travel" class="more_vertical">
+    <span class="pointer unicode">▶</span> 
+    MORE TRAVEL
+  </a>
+  
+</ul>
+
+<ul id="nav_preview_business" class="nav_preview a">
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="business" href="/mattlynley/the-outlook-for-tablets-this-year-is-already-pretty-grim" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr02/2/10/the-outlook-for-tablets-this-year-is-already-pret-2-13569-1399039411-0.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="business" href="/mattlynley/the-outlook-for-tablets-this-year-is-already-pretty-grim">
+            <span class="title_small">The Outlook For Tablets This Year Is Already Pretty Grim</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="business" href="/mattlynley/facebooks-move-fast-break-things-era-is-over" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-04/campaign_images/webdr04/30/14/facebooks-move-fast-break-things-era-is-over-2-22353-1398882999-5.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="business" href="/mattlynley/facebooks-move-fast-break-things-era-is-over">
+            <span class="title_small">Facebook's "Move Fast, Break Things" Era Is Over</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="business" href="/mattlynley/facebook-is-now-carefully-reviewing-apps-in-order-to-get-use" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-04/campaign_images/webdr02/30/19/facebook-is-now-carefully-reviewing-apps-in-order-2-795-1398899515-0.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="business" href="/mattlynley/facebook-is-now-carefully-reviewing-apps-in-order-to-get-use">
+            <span class="title_small">Facebook Is Now Carefully Reviewing Apps In Order To Get Users "Comfortable"</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="business" href="/rachelzarrell/paypal-fires-executive-who-went-on-twitter-tirade-against-co" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr02/5/22/paypal-fires-executive-who-went-on-twitter-tirade-2-26605-1399344195-6.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="business" href="/rachelzarrell/paypal-fires-executive-who-went-on-twitter-tirade-against-co">
+            <span class="title_small">PayPal Fires Executive Who Went On Twitter Tirade Against Co-Workers</span>
+          </a>
+        </li>
+      
+    
+  
+  
+  <a rel:gt_act="vertical/more" rel:gt_label="business" href="/business" class="more_vertical">
+    <span class="pointer unicode">▶</span> 
+    MORE BUSINESS
+  </a>
+  
+</ul>
+
+<ul id="nav_preview_animals" class="nav_preview a">
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="animals" href="/erinchack/how-many-of-these-noses-would-you-boop" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr05/6/10/how-many-of-these-noses-would-you-boop-2-26198-1399387494-6.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="animals" href="/erinchack/how-many-of-these-noses-would-you-boop">
+            <span class="title_small">How Many Of These Noses Would You Boop?</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="animals" href="/samimain/treats-you-can-make-for-your-dog" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-04/campaign_images/webdr05/30/16/treats-you-can-make-for-your-dog-2-9037-1398891229-22.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="animals" href="/samimain/treats-you-can-make-for-your-dog">
+            <span class="title_small">16 Treats You Should Make For Your Dog This Summer</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="animals" href="/lindseyrobertson/reasons-cows-are-actually-awesome" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr07/5/15/21-reasons-cows-are-actually-awesome-2-32361-1399319623-13.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="animals" href="/lindseyrobertson/reasons-cows-are-actually-awesome">
+            <span class="title_small">21 Reasons Cows Are Actually Awesome</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="animals" href="/lindseyrobertson/rules-for-taking-a-good-photo" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr05/2/14/17-rules-for-taking-a-good-photo-2-23776-1399053866-19.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="animals" href="/lindseyrobertson/rules-for-taking-a-good-photo">
+            <span class="title_small">17 Rules For Taking A Good Photo</span>
+          </a>
+        </li>
+      
+    
+  
+  
+  <a rel:gt_act="vertical/more" rel:gt_label="animals" href="/animals" class="more_vertical">
+    <span class="pointer unicode">▶</span> 
+    MORE ANIMALS
+  </a>
+  
+</ul>
+
+<ul id="nav_preview_music" class="nav_preview a">
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="music" href="/catesish/this-is-the-best-version-of-cups-so-far" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr06/6/12/this-is-the-best-version-of-cups-so-far-2-1414-1399394765-52.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="music" href="/catesish/this-is-the-best-version-of-cups-so-far">
+            <span class="title_small">This Is The Best Version Of "Cups" So Far</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="music" href="/naomizeichner/rihanna-was-totally-stoned-at-the-met-ball" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr07/6/12/rihanna-was-totally-stoned-at-the-met-ball-2-23189-1399392551-10.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="music" href="/naomizeichner/rihanna-was-totally-stoned-at-the-met-ball">
+            <span class="title_small">Rihanna Was Totally Stoned At The Met Ball</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="music" href="/naomizeichner/rihanna-instagram-deleted" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr04/5/17/rihannas-instagram-account-has-mysteriously-disap-2-18280-1399326535-1.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="music" href="/naomizeichner/rihanna-instagram-deleted">
+            <span class="title_small">Rihanna's Instagram Account Has Mysteriously Disappeared</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="music" href="/azafar/katy-perry-is-comic-character-katy-keene" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr06/2/16/turns-out-katy-perrys-been-taking-fashion-cues-fr-2-13268-1399061457-25.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="music" href="/azafar/katy-perry-is-comic-character-katy-keene">
+            <span class="title_small">Turns Out Katy Perry’s Been Taking Fashion Cues From An Archie Comics Character</span>
+          </a>
+        </li>
+      
+    
+  
+  
+  <a rel:gt_act="vertical/more" rel:gt_label="music" href="/music" class="more_vertical">
+    <span class="pointer unicode">▶</span> 
+    MORE MUSIC
+  </a>
+  
+</ul>
+
+<ul id="nav_preview_ov-greatest-hits" class="nav_preview a">
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="ov-greatest-hits" href="/video/justindailey/pumpkins-you-wont-believe-exist" class="thumb_warpper">
+            <img src="http://s3-ak.buzzfed.com/static/images/public/videopage/play_icon.png" class="video_play_button" nopin="nopin">
+            <img src="http://s3-ak.buzzfeed.com/static/2013-10/campaign_images/webdr02/14/19/pumpkins-you-wont-believe-exist-1-5818-1381792267-0.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="ov-greatest-hits" href="/video/justindailey/pumpkins-you-wont-believe-exist">
+            <span class="title_small">Pumpkins You Won't Believe Actually Exist</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="ov-greatest-hits" href="/video/andrewgauthier/how-much-food-can-you-buy-for-5-around-the-world" class="thumb_warpper">
+            <img src="http://s3-ak.buzzfed.com/static/images/public/videopage/play_icon.png" class="video_play_button" nopin="nopin">
+            <img src="http://s3-ak.buzzfeed.com/static/2014-04/campaign_images/webdr07/30/18/how-much-food-does-5-buy-around-the-world-1-18466-1398897043-8.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="ov-greatest-hits" href="/video/andrewgauthier/how-much-food-can-you-buy-for-5-around-the-world">
+            <span class="title_small">How Much Food Does $5 Buy Around The World?</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="ov-greatest-hits" href="/video/justindailey/the-most-perfectly-timed-photos-of-2013" class="thumb_warpper">
+            <img src="http://s3-ak.buzzfed.com/static/images/public/videopage/play_icon.png" class="video_play_button" nopin="nopin">
+            <img src="http://s3-ak.buzzfeed.com/static/2014-04/campaign_images/webdr05/30/18/the-most-perfectly-timed-photos-of-2013-1-3882-1398898104-18.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="ov-greatest-hits" href="/video/justindailey/the-most-perfectly-timed-photos-of-2013">
+            <span class="title_small">The Most Perfectly Timed Photos Of 2013</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="ov-greatest-hits" href="/video/justindailey/the-funniest-autocorrects-in-2013" class="thumb_warpper">
+            <img src="http://s3-ak.buzzfed.com/static/images/public/videopage/play_icon.png" class="video_play_button" nopin="nopin">
+            <img src="http://s3-ak.buzzfeed.com/static/2014-04/campaign_images/webdr06/28/17/the-funniest-autocorrects-of-2013-1-17804-1398722290-35.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="ov-greatest-hits" href="/video/justindailey/the-funniest-autocorrects-in-2013">
+            <span class="title_small">The Funniest Autocorrects Of 2013</span>
+          </a>
+        </li>
+      
+    
+  
+  
+</ul>
+
+<ul id="nav_preview_ov-animals" class="nav_preview a">
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="ov-animals" href="/video/sararubin/undeniable-proof-that-animals-have-souls" class="thumb_warpper">
+            <img src="http://s3-ak.buzzfed.com/static/images/public/videopage/play_icon.png" class="video_play_button" nopin="nopin">
+            <img src="http://s3-ak.buzzfeed.com/static/2014-04/campaign_images/webdr04/25/15/undeniable-proof-that-animals-have-souls-1-4223-1398454461-26.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="ov-animals" href="/video/sararubin/undeniable-proof-that-animals-have-souls">
+            <span class="title_small">Undeniable Proof That Animals Have Souls</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="ov-animals" href="/video/tlo27/can-you-make-it-through-this-video-without-saying-aww" class="thumb_warpper">
+            <img src="http://s3-ak.buzzfed.com/static/images/public/videopage/play_icon.png" class="video_play_button" nopin="nopin">
+            <img src="http://s3-ak.buzzfeed.com/static/2014-03/campaign_images/webdr06/31/13/can-you-make-it-through-this-video-without-saying-1-4476-1396288523-0.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="ov-animals" href="/video/tlo27/can-you-make-it-through-this-video-without-saying-aww">
+            <span class="title_small">Can You Make It Through This Video Without Saying 'Aww'?</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="ov-animals" href="/video/buzzfeedvideo/the-most-awkward-cats-of-2013" class="thumb_warpper">
+            <img src="http://s3-ak.buzzfed.com/static/images/public/videopage/play_icon.png" class="video_play_button" nopin="nopin">
+            <img src="http://s3-ak.buzzfeed.com/static/2014-03/campaign_images/webdr02/31/13/the-most-awkward-cats-of-2013-1-25695-1396287696-6.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="ov-animals" href="/video/buzzfeedvideo/the-most-awkward-cats-of-2013">
+            <span class="title_small">The Most Awkward Cats Of 2013</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="ov-animals" href="/video/hillarylevine/can-dogs-be-fashion-models" class="thumb_warpper">
+            <img src="http://s3-ak.buzzfed.com/static/images/public/videopage/play_icon.png" class="video_play_button" nopin="nopin">
+            <img src="http://s3-ak.buzzfeed.com/static/2014-04/campaign_images/webdr06/30/16/can-dogs-be-fashion-models-1-22061-1398889587-13.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="ov-animals" href="/video/hillarylevine/can-dogs-be-fashion-models">
+            <span class="title_small">Can Dogs Be Fashion Models?</span>
+          </a>
+        </li>
+      
+    
+  
+  
+</ul>
+
+<ul id="nav_preview_politics" class="nav_preview a">
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="politics" href="/bensmith/benjamin-netanyahu-has-had-enough-of-your-selfies" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr03/1/9/benjamin-netanyahu-has-had-enough-of-your-selfies-2-15332-1398951987-8.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="politics" href="/bensmith/benjamin-netanyahu-has-had-enough-of-your-selfies">
+            <span class="title_small">Benjamin Netanyahu Has Had Enough Of Your Selfies</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="politics" href="/katherinemiller/how-popular-in-dc-are-you-really" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr06/2/14/how-popular-in-dc-are-you-really-2-3441-1399056186-48.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="politics" href="/katherinemiller/how-popular-in-dc-are-you-really">
+            <span class="title_small">How Popular In D.C. Are You, Really?</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="politics" href="/bennyjohnson/please-join-dc-in-welcoming-its-new-doughnut-overlord" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr05/1/15/please-join-dc-in-welcoming-its-new-doughnut-over-2-310-1398971914-0.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="politics" href="/bennyjohnson/please-join-dc-in-welcoming-its-new-doughnut-overlord">
+            <span class="title_small">Please Join D.C. In Welcoming Its New Doughnut Overlord</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="politics" href="/evanmcsan/hhs-expected-to-lift-blanket-medicare-ban-on-sex-reassignmen" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr06/2/9/hhs-expected-to-lift-blanket-medicare-ban-on-sex--2-24671-1399036871-19.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="politics" href="/evanmcsan/hhs-expected-to-lift-blanket-medicare-ban-on-sex-reassignmen">
+            <span class="title_small">HHS Expected To Lift Blanket Medicare Ban On Sex-Reassignment Surgery Soon</span>
+          </a>
+        </li>
+      
+    
+  
+  
+  <a rel:gt_act="vertical/more" rel:gt_label="politics" href="/politics" class="more_vertical">
+    <span class="pointer unicode">▶</span> 
+    MORE POLITICS
+  </a>
+  
+</ul>
+
+<ul id="nav_preview_ov-life-hacks" class="nav_preview a">
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="ov-life-hacks" href="/video/kater11/the-7-paperclips-your-mom-warned-you-about" class="thumb_warpper">
+            <img src="http://s3-ak.buzzfed.com/static/images/public/videopage/play_icon.png" class="video_play_button" nopin="nopin">
+            <img src="http://s3-ak.buzzfeed.com/static/campaign_images/webdr05/2013/8/29/13/the-7-paper-clips-your-mom-warned-you-about-1-14871-1377798467-27.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="ov-life-hacks" href="/video/kater11/the-7-paperclips-your-mom-warned-you-about">
+            <span class="title_small">The 7 Paper Clips Your Mom Warned You About</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="ov-life-hacks" href="/video/hillarylevine/9-game-changing-iphone-tricks" class="thumb_warpper">
+            <img src="http://s3-ak.buzzfed.com/static/images/public/videopage/play_icon.png" class="video_play_button" nopin="nopin">
+            <img src="http://s3-ak.buzzfeed.com/static/2013-10/campaign_images/webdr06/25/18/9-game-changing-iphone-tricks-1-17782-1382740759-2.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="ov-life-hacks" href="/video/hillarylevine/9-game-changing-iphone-tricks">
+            <span class="title_small">9 Game-Changing iPhone Tricks</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="ov-life-hacks" href="/video/tlo27/moving-hacks-you-need-to-know" class="thumb_warpper">
+            <img src="http://s3-ak.buzzfed.com/static/images/public/videopage/play_icon.png" class="video_play_button" nopin="nopin">
+            <img src="http://s3-ak.buzzfeed.com/static/2014-04/campaign_images/webdr05/25/14/6-moving-hacks-you-need-to-know-1-22782-1398449313-0.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="ov-life-hacks" href="/video/tlo27/moving-hacks-you-need-to-know">
+            <span class="title_small">6 Moving Hacks You Need To Know</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="ov-life-hacks" href="/video/mdeicke1/how-to-win-at-5-classic-board-games" class="thumb_warpper">
+            <img src="http://s3-ak.buzzfed.com/static/images/public/videopage/play_icon.png" class="video_play_button" nopin="nopin">
+            <img src="http://s3-ak.buzzfeed.com/static/2014-04/campaign_images/webdr06/24/19/cool-tricks-to-always-win-at-board-games-2-8557-1398383127-6.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="ov-life-hacks" href="/video/mdeicke1/how-to-win-at-5-classic-board-games">
+            <span class="title_small">Cool Tricks To Always Win At Board Games</span>
+          </a>
+        </li>
+      
+    
+  
+  
+</ul>
+
+<ul id="nav_preview_tech" class="nav_preview a">
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="tech" href="/charliewarzel/this-twitter-account-is-a-seven-year-joke-and-is-basically-j" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr08/5/19/this-twitter-account-is-a-seven-year-joke-and-is--2-32307-1399331103-14.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="tech" href="/charliewarzel/this-twitter-account-is-a-seven-year-joke-and-is-basically-j">
+            <span class="title_small">This Twitter Account Is A Seven-Year Joke And Is Basically Just Perfect</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="tech" href="/katienotopoulos/the-internets-last-great-troll-lair-may-have-been-killed-by" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr04/1/10/the-internets-last-great-troll-lair-may-have-been-2-14369-1398953552-8.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="tech" href="/katienotopoulos/the-internets-last-great-troll-lair-may-have-been-killed-by">
+            <span class="title_small">The Internet's Last Great Troll Lair May Have Been Shut Down By The Secret Service</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="tech" href="/charliewarzel/how-to-check-and-see-if-twitter-is-dead" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr03/5/11/how-to-check-and-see-if-twitter-is-dead-2-14707-1399303183-13.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="tech" href="/charliewarzel/how-to-check-and-see-if-twitter-is-dead">
+            <span class="title_small">How To Check And See If Twitter Is Dead</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="tech" href="/sirajdatoo/twitter-is-testing-a-tool-that-will-let-you-mute-people-you" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr03/2/13/twitter-is-testing-a-tool-that-will-let-you-mute--2-28306-1399052538-2.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="tech" href="/sirajdatoo/twitter-is-testing-a-tool-that-will-let-you-mute-people-you">
+            <span class="title_small">Twitter Is Testing A Tool That Will Let You Mute People You Follow</span>
+          </a>
+        </li>
+      
+    
+  
+  
+  <a rel:gt_act="vertical/more" rel:gt_label="tech" href="/tech" class="more_vertical">
+    <span class="pointer unicode">▶</span> 
+    MORE TECH
+  </a>
+  
+</ul>
+
+<ul id="nav_preview_gif_feed" class="nav_preview a">
+  
+    
+      
+        <li><a href="/giffeed"><img src="http://s3-ak.buzzfed.com/static/images/public/gif-feed/giffeed-image.png" nopin="nopin"></a></li>
+      
+    
+  
+  
+</ul>
+
+<ul id="nav_preview_diy" class="nav_preview a">
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="diy" href="/alannaokun/rad-home-goods-you-didnt-know-you-could-buy-on-amazon" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr08/5/12/30-rad-home-goods-you-didnt-know-you-could-buy-on-2-6882-1399307071-23.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="diy" href="/alannaokun/rad-home-goods-you-didnt-know-you-could-buy-on-amazon">
+            <span class="title_small">30 Rad Home Goods You Didn't Know You Could Buy On Amazon</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="diy" href="/mikespohr/things-to-remind-your-kids-when-theyre-older" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr07/5/14/25-things-to-remind-your-kids-of-when-theyre-older-2-32291-1399315602-0.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="diy" href="/mikespohr/things-to-remind-your-kids-when-theyre-older">
+            <span class="title_small">25 Things To Remind Your Kids Of When They're Older</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="diy" href="/alannaokun/insanely-easy-ways-to-declutter-your-online-life" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-04/campaign_images/webdr03/30/14/insanely-easy-ways-to-declutter-your-online-life-2-6709-1398883683-30.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="diy" href="/alannaokun/insanely-easy-ways-to-declutter-your-online-life">
+            <span class="title_small">23 Insanely Simple Ways To Declutter Your Online Life</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="diy" href="/pippa/11-dressed-up-toms-you-could-actually-wear-to-a-fa-5ocb" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr06/2/10/11-dressed-up-toms-you-could-actually-wear-to-a-f-2-30131-1399039674-1.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="diy" href="/pippa/11-dressed-up-toms-you-could-actually-wear-to-a-fa-5ocb">
+            <span class="title_small">11 Dressed-Up Toms You Could Actually Wear To A Fancy Occasion</span>
+          </a>
+        </li>
+      
+    
+  
+  
+  <a rel:gt_act="vertical/more" rel:gt_label="diy" href="/diy" class="more_vertical">
+    <span class="pointer unicode">▶</span> 
+    MORE DIY
+  </a>
+  
+</ul>
+
+<ul id="nav_preview_celebrity" class="nav_preview a">
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="celebrity" href="/bradesposito/not-kim-not-kanye" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr06/5/11/cosmopolitan-tweeted-out-a-photo-of-kim-and-kanye-2-19946-1399302567-9.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="celebrity" href="/bradesposito/not-kim-not-kanye">
+            <span class="title_small">Cosmopolitan Tweeted Out A Photo Of Kim And Kanye Without Realizing It Wasn't Actually Them</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="celebrity" href="/whitneyjefferson/the-best-sad-kanye-west-zipline-memes" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr06/5/17/the-19-best-sad-kanye-west-zipline-memes-2-20457-1399325381-33.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="celebrity" href="/whitneyjefferson/the-best-sad-kanye-west-zipline-memes">
+            <span class="title_small">The 19 Best "Sad Kanye West" Zipline Memes</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="celebrity" href="/mjs538/a-rihanna-meet-greet-vs-an-avril-lavigne-meet-greet" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr02/5/13/a-rihanna-meet-and-greet-vs-an-avril-lavigne-meet-2-17361-1399311307-4.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="celebrity" href="/mjs538/a-rihanna-meet-greet-vs-an-avril-lavigne-meet-greet">
+            <span class="title_small">A Rihanna Meet And Greet Vs. An Avril Lavigne Meet And Greet</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="celebrity" href="/lyapalater/celebrities-that-look-nothing-alike" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr07/1/19/22-celebrities-that-look-nothing-alike-2-27378-1398986893-15.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="celebrity" href="/lyapalater/celebrities-that-look-nothing-alike">
+            <span class="title_small">22 Celebrities That Look Nothing Alike</span>
+          </a>
+        </li>
+      
+    
+  
+  
+  <a rel:gt_act="vertical/more" rel:gt_label="celebrity" href="/celebrity" class="more_vertical">
+    <span class="pointer unicode">▶</span> 
+    MORE CELEBRITY
+  </a>
+  
+</ul>
+
+<ul id="nav_preview_ov-buzzfacts" class="nav_preview a">
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="ov-buzzfacts" href="/video/jerrysoda/strange-facts-that-will-make-you-feel-weird" class="thumb_warpper">
+            <img src="http://s3-ak.buzzfed.com/static/images/public/videopage/play_icon.png" class="video_play_button" nopin="nopin">
+            <img src="http://s3-ak.buzzfeed.com/static/2014-04/campaign_images/webdr06/28/17/13-strange-facts-that-will-make-you-feel-weird-1-17320-1398719269-5.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="ov-buzzfacts" href="/video/jerrysoda/strange-facts-that-will-make-you-feel-weird">
+            <span class="title_small">13 Strange Facts That Will Make You Feel Weird</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="ov-buzzfacts" href="/video/hillarylevine/these-are-the-facts-about-peanut-butter" class="thumb_warpper">
+            <img src="http://s3-ak.buzzfed.com/static/images/public/videopage/play_icon.png" class="video_play_button" nopin="nopin">
+            <img src="http://s3-ak.buzzfeed.com/static/2014-04/campaign_images/webdr06/30/18/these-are-the-facts-about-peanut-butter-1-8966-1398898066-2.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="ov-buzzfacts" href="/video/hillarylevine/these-are-the-facts-about-peanut-butter">
+            <span class="title_small">These Are The Facts About Peanut Butter</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="ov-buzzfacts" href="/video/matthewgustafson/feel-better-facts" class="thumb_warpper">
+            <img src="http://s3-ak.buzzfed.com/static/images/public/videopage/play_icon.png" class="video_play_button" nopin="nopin">
+            <img src="http://s3-ak.buzzfeed.com/static/campaign_images/webdr05/2013/9/3/20/feel-better-facts-1-27117-1378254973-9.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="ov-buzzfacts" href="/video/matthewgustafson/feel-better-facts">
+            <span class="title_small">Feel Better Facts</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="ov-buzzfacts" href="/video/tlo27/youtube-facts-that-will-amaze-you" class="thumb_warpper">
+            <img src="http://s3-ak.buzzfed.com/static/images/public/videopage/play_icon.png" class="video_play_button" nopin="nopin">
+            <img src="http://s3-ak.buzzfeed.com/static/2014-04/campaign_images/webdr03/28/10/youtube-facts-that-will-amaze-you-1-32452-1398696210-22.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="ov-buzzfacts" href="/video/tlo27/youtube-facts-that-will-amaze-you">
+            <span class="title_small">YouTube Facts That Will Amaze You</span>
+          </a>
+        </li>
+      
+    
+  
+  
+</ul>
+
+<ul id="nav_preview_entertainment" class="nav_preview a">
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="entertainment" href="/danmeth/the-fictional-country-quiz" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr03/5/17/the-fictional-country-quiz-2-28856-1399324643-16.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="entertainment" href="/danmeth/the-fictional-country-quiz">
+            <span class="title_small">The Fictional Country Quiz</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="entertainment" href="/louispeitzman/this-is-what-the-mad-men-characters-will-look-like-in-the-80" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-04/campaign_images/webdr06/30/20/this-is-what-the-mad-men-characters-will-look-lik-1-15130-1398904622-8.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="entertainment" href="/louispeitzman/this-is-what-the-mad-men-characters-will-look-like-in-the-80">
+            <span class="title_small">This Is What The "Mad Men" Characters Will Look Like In The '80s</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="entertainment" href="/jarettwieselman/fox-says-naya-rivera-was-not-fired-from-glee" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr05/2/22/20th-century-fox-says-naya-rivera-was-not-fired-f-2-13532-1399083305-8.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="entertainment" href="/jarettwieselman/fox-says-naya-rivera-was-not-fired-from-glee">
+            <span class="title_small">20th Century Fox Says Naya Rivera Was Not Fired From "Glee"</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="entertainment" href="/jaimieetkin/the-first-gotham-trailer-introduces-young-batman-catwoman" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr06/6/0/the-first-gotham-trailer-introduces-young-poison--2-5994-1399349327-0.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="entertainment" href="/jaimieetkin/the-first-gotham-trailer-introduces-young-batman-catwoman">
+            <span class="title_small">The First "Gotham" Trailer Introduces Young Poison Ivy, Catwoman, Penguin, And (Of Course) Batman</span>
+          </a>
+        </li>
+      
+    
+  
+  
+  <a rel:gt_act="vertical/more" rel:gt_label="entertainment" href="/entertainment" class="more_vertical">
+    <span class="pointer unicode">▶</span> 
+    MORE ENTERTAINMENT
+  </a>
+  
+</ul>
+
+<ul id="nav_preview_world" class="nav_preview a">
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="world" href="/miriamberger/the-nigerian-schools-girls-are-still-kidnapped-and-internati" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr05/6/10/the-nigerian-schools-girls-are-still-missing-and--2-26030-1399385187-0.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="world" href="/miriamberger/the-nigerian-schools-girls-are-still-kidnapped-and-internati">
+            <span class="title_small">The Nigerian School Girls Are Still Missing And International Outrage Is Rising</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="world" href="/jinamoore/women-rally-in-nigeria-to-demand-more-action-for-200-kidnapp" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr02/1/9/women-rally-in-nigeria-to-demand-more-action-for--2-692-1398951239-8.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="world" href="/jinamoore/women-rally-in-nigeria-to-demand-more-action-for-200-kidnapp">
+            <span class="title_small">Women Rally In Nigeria To Demand More Action For 200 Kidnapped Girls</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="world" href="/mikegiglio/ukraine-activists-flee-amid-death-threats-and-kidnappings" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr04/6/12/ukraine-activists-flee-death-threats-and-kidnappi-2-14219-1399392779-12.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="world" href="/mikegiglio/ukraine-activists-flee-amid-death-threats-and-kidnappings">
+            <span class="title_small">Ukraine Activists Flee Death Threats And Kidnappings</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="world" href="/jinamoore/why-its-hard-to-board-a-bus-in-nairobi-today-if-you-look-lik" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr05/6/12/why-its-hard-to-board-a-bus-in-nairobi-today-if-y-2-30993-1399393534-7.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="world" href="/jinamoore/why-its-hard-to-board-a-bus-in-nairobi-today-if-you-look-lik">
+            <span class="title_small">Why It's Hard To Board A Bus In Nairobi Today If You Look Like A Somali</span>
+          </a>
+        </li>
+      
+    
+  
+  
+  <a rel:gt_act="vertical/more" rel:gt_label="world" href="/world" class="more_vertical">
+    <span class="pointer unicode">▶</span> 
+    MORE WORLD
+  </a>
+  
+</ul>
+
+<ul id="nav_preview_geeky" class="nav_preview a">
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="geeky" href="/ellievhall/more-game-of-thrones-characters-drawn-as-the-simpsons" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr04/1/13/more-game-of-thrones-characters-drawn-as-the-simp-1-17349-1398964064-5.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="geeky" href="/ellievhall/more-game-of-thrones-characters-drawn-as-the-simpsons">
+            <span class="title_small">More "Game Of Thrones" Characters Drawn As "The Simpsons"</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="geeky" href="/kmallikarjuna/surefire-ways-to-judge-a-persons-character" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr06/6/13/21-surefire-ways-to-judge-a-persons-character-2-20950-1399398576-0.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="geeky" href="/kmallikarjuna/surefire-ways-to-judge-a-persons-character">
+            <span class="title_small">21 Surefire Ways To Judge A Person's Character</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="geeky" href="/kmallikarjuna/reasons-thor-should-be-president" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-04/campaign_images/webdr07/30/19/13-reasons-thor-should-be-president-2-21666-1398899668-24.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="geeky" href="/kmallikarjuna/reasons-thor-should-be-president">
+            <span class="title_small">13 Reasons Thor Should Be President</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="geeky" href="/awesomer/reasons-game-of-thrones-is-the-biggest-bummer-ever" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr03/5/12/24-reasons-game-of-thrones-is-the-biggest-bummer--2-5617-1399306649-1.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="geeky" href="/awesomer/reasons-game-of-thrones-is-the-biggest-bummer-ever">
+            <span class="title_small">24 Reasons “Game Of Thrones” Is The Biggest Bummer Ever</span>
+          </a>
+        </li>
+      
+    
+  
+  
+  <a rel:gt_act="vertical/more" rel:gt_label="geeky" href="/geeky" class="more_vertical">
+    <span class="pointer unicode">▶</span> 
+    MORE GEEKY
+  </a>
+  
+</ul>
+
+<ul id="nav_preview_books" class="nav_preview a">
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="books" href="/alannaokun/pokemon-book-titles-that-should-actually-exist" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr04/6/11/16-pokemon-book-titles-that-should-actually-exist-2-14633-1399391967-15.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="books" href="/alannaokun/pokemon-book-titles-that-should-actually-exist">
+            <span class="title_small">17 Pokémon Book Titles That Should Actually Exist</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="books" href="/sarahnicoleprickett/ellen-willis-is-essential" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr03/7/13/why-ellen-willis-is-an-essential-icon-2-32106-1399482091-16.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="books" href="/sarahnicoleprickett/ellen-willis-is-essential">
+            <span class="title_small">Why Ellen Willis Is An Essential Icon</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="books" href="/laraparker/parts-of-harry-potter-that-were-never-in-the-movies" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr07/2/12/15-parts-of-the-harry-potter-series-that-were-nev-2-32115-1399046694-0.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="books" href="/laraparker/parts-of-harry-potter-that-were-never-in-the-movies">
+            <span class="title_small">15 Parts Of The Harry Potter Series That Were Never In The Movies</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="books" href="/jemimaskelley/meet-the-new-species-of-wasp-named-after-a-harry-potter-crea" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr02/7/9/meet-the-new-species-named-after-a-harry-potter-c-2-17274-1399468427-5.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="books" href="/jemimaskelley/meet-the-new-species-of-wasp-named-after-a-harry-potter-crea">
+            <span class="title_small">Meet The New Species Named After A Harry Potter Creature</span>
+          </a>
+        </li>
+      
+    
+  
+  
+  <a rel:gt_act="vertical/more" rel:gt_label="books" href="/books" class="more_vertical">
+    <span class="pointer unicode">▶</span> 
+    MORE BOOKS
+  </a>
+  
+</ul>
+
+<ul id="nav_preview_ov-awesome-science" class="nav_preview a">
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="ov-awesome-science" href="/video/justindailey/can-you-make-it-through-this-video-without-freaking-out" class="thumb_warpper">
+            <img src="http://s3-ak.buzzfed.com/static/images/public/videopage/play_icon.png" class="video_play_button" nopin="nopin">
+            <img src="http://s3-ak.buzzfeed.com/static/2014-04/campaign_images/webdr07/25/15/can-you-make-it-through-this-video-without-feelin-1-3935-1398453819-21.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="ov-awesome-science" href="/video/justindailey/can-you-make-it-through-this-video-without-freaking-out">
+            <span class="title_small">Can You Make It Through This Video Without Feeling Your Skin Crawl?</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="ov-awesome-science" href="/video/henrygoldman/14-ways-to-ruin-the-environment-in-66-seconds" class="thumb_warpper">
+            <img src="http://s3-ak.buzzfed.com/static/images/public/videopage/play_icon.png" class="video_play_button" nopin="nopin">
+            <img src="http://s3-ak.buzzfeed.com/static/2014-04/campaign_images/webdr07/29/19/14-ways-to-ruin-the-environment-in-66-seconds-1-24347-1398813831-9.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="ov-awesome-science" href="/video/henrygoldman/14-ways-to-ruin-the-environment-in-66-seconds">
+            <span class="title_small">14 Ways To Ruin The Environment In 66 Seconds</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="ov-awesome-science" href="/video/andrewilnyckyj/9-robots-you-can-replace-all-your-friends-with" class="thumb_warpper">
+            <img src="http://s3-ak.buzzfed.com/static/images/public/videopage/play_icon.png" class="video_play_button" nopin="nopin">
+            <img src="http://s3-ak.buzzfeed.com/static/2013-09/campaign_images/webdr02/23/16/9-robots-you-can-replace-all-your-friends-with-1-1396-1379968322-22.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="ov-awesome-science" href="/video/andrewilnyckyj/9-robots-you-can-replace-all-your-friends-with">
+            <span class="title_small">9 Robots You Can Replace All Your Friends With</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="ov-awesome-science" href="/video/andrewgauthier/how-does-your-hard-working-body-measure-up-against-the-entir" class="thumb_warpper">
+            <img src="http://s3-ak.buzzfed.com/static/images/public/videopage/play_icon.png" class="video_play_button" nopin="nopin">
+            <img src="http://s3-ak.buzzfeed.com/static/2014-04/campaign_images/webdr07/29/18/how-your-hard-working-body-measures-up-against-th-1-24358-1398812394-7.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="ov-awesome-science" href="/video/andrewgauthier/how-does-your-hard-working-body-measure-up-against-the-entir">
+            <span class="title_small">How Your Hard-Working Body Measures Up Against The Entire Earth</span>
+          </a>
+        </li>
+      
+    
+  
+  
+</ul>
+
+<ul id="nav_preview_longform" class="nav_preview a">
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="longform" href="/sandraeallen/why-would-a-gay-teenager-commit-hate-crimes-against-herself" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr03/2/10/why-would-a-gay-teenager-commit-hate-crimes-again-2-24475-1399041767-12.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="longform" href="/sandraeallen/why-would-a-gay-teenager-commit-hate-crimes-against-herself">
+            <span class="title_small">Why Would A Gay Teenager Commit Hate Crimes Against Herself?</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="longform" href="/annehelenpetersen/zac-efron" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr08/5/8/zac-efron-bros-down-to-grow-up-2-13564-1399293832-18.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="longform" href="/annehelenpetersen/zac-efron">
+            <span class="title_small">Zac Efron Bros Down To Grow Up</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="longform" href="/sandraeallen/our-9-favorite-feature-stories-this-week" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-04/campaign_images/webdr08/27/9/our-9-favorite-feature-stories-this-week-2-12967-1398603954-15.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="longform" href="/sandraeallen/our-9-favorite-feature-stories-this-week">
+            <span class="title_small">Our 9 Favorite Feature Stories This Week</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="longform" href="/sandraeallen/9-features-stories-were-reading-this-week-4-18" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-04/campaign_images/webdr05/20/8/our-9-favorite-feature-stories-this-week-2-26065-1397997716-2.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="longform" href="/sandraeallen/9-features-stories-were-reading-this-week-4-18">
+            <span class="title_small">Our 9 Favorite Feature Stories This Week</span>
+          </a>
+        </li>
+      
+    
+  
+  
+  <a rel:gt_act="vertical/more" rel:gt_label="longform" href="/longform" class="more_vertical">
+    <span class="pointer unicode">▶</span> 
+    MORE LONGFORM
+  </a>
+  
+</ul>
+
+<ul id="nav_preview_lgbt" class="nav_preview a">
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="lgbt" href="/skarlan/animated-short-on-gender-recognition-no-government-should-be" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr04/1/11/animated-short-on-gender-recognition-no-governmen-2-9245-1398957423-30.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="lgbt" href="/skarlan/animated-short-on-gender-recognition-no-government-should-be">
+            <span class="title_small">"No Government Should Be Able To Decide This": Animated Short On Gender Recognition</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="lgbt" href="/tonymerevick/democrats-walk-out-of-hearing-on-resolution-to-impeach-penns" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr08/6/14/democrats-walk-out-of-hearing-on-resolution-to-im-2-20634-1399402103-0.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="lgbt" href="/tonymerevick/democrats-walk-out-of-hearing-on-resolution-to-impeach-penns">
+            <span class="title_small">Democrats Walk Out Of Hearing On Resolution To Impeach Pennsylvania Attorney General</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="lgbt" href="/skarlan/meet-the-couple-behind-the-military-proposal-that-won-the-in" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr05/7/9/meet-the-couple-behind-the-military-proposal-that-2-18556-1399468011-31.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="lgbt" href="/skarlan/meet-the-couple-behind-the-military-proposal-that-won-the-in">
+            <span class="title_small">Meet The Couple Behind The Military Proposal That Won The Internet's Heart</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="lgbt" href="/saeedjones/who-was-your-first-same-sex-crush" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr04/7/12/who-was-your-first-same-sex-crush-2-11939-1399481515-0.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="lgbt" href="/saeedjones/who-was-your-first-same-sex-crush">
+            <span class="title_small">Who Was Your First Same-Sex Crush?</span>
+          </a>
+        </li>
+      
+    
+  
+  
+  <a rel:gt_act="vertical/more" rel:gt_label="lgbt" href="/lgbt" class="more_vertical">
+    <span class="pointer unicode">▶</span> 
+    MORE LGBT
+  </a>
+  
+</ul>
+
+<ul id="nav_preview_ov-original-videos" class="nav_preview a">
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="ov-original-videos" href="/video/sararubin/surefire-signs-youve-found-your-best-friend" class="thumb_warpper">
+            <img src="http://s3-ak.buzzfed.com/static/images/public/videopage/play_icon.png" class="video_play_button" nopin="nopin">
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr04/6/20/surefire-signs-youve-found-your-best-friend-2-3989-1399422439-1.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="ov-original-videos" href="/video/sararubin/surefire-signs-youve-found-your-best-friend">
+            <span class="title_small">Surefire Signs You've Found Your Best Friend</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="ov-original-videos" href="/video/abefg/24-terrifying-confessions-from-medical-professionals" class="thumb_warpper">
+            <img src="http://s3-ak.buzzfed.com/static/images/public/videopage/play_icon.png" class="video_play_button" nopin="nopin">
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr03/6/19/24-terrifying-confessions-from-medical-profession-2-19083-1399417484-0.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="ov-original-videos" href="/video/abefg/24-terrifying-confessions-from-medical-professionals">
+            <span class="title_small">24 Terrifying Confessions From Medical Professionals</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="ov-original-videos" href="/video/hillarylevine/disturbingly-honest-sorority-girl-confessions" class="thumb_warpper">
+            <img src="http://s3-ak.buzzfed.com/static/images/public/videopage/play_icon.png" class="video_play_button" nopin="nopin">
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr03/6/19/disturbingly-honest-sorority-girl-confessions-2-17600-1399417694-1.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="ov-original-videos" href="/video/hillarylevine/disturbingly-honest-sorority-girl-confessions">
+            <span class="title_small">Disturbingly Honest Sorority Girl Confessions</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="ov-original-videos" href="/video/caitlincowie/14-celebrities-who-completely-transformed-their-faces-with-o" class="thumb_warpper">
+            <img src="http://s3-ak.buzzfed.com/static/images/public/videopage/play_icon.png" class="video_play_button" nopin="nopin">
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr07/6/12/14-celebrities-who-transformed-their-faces-with-o-2-25634-1399394098-12.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="ov-original-videos" href="/video/caitlincowie/14-celebrities-who-completely-transformed-their-faces-with-o">
+            <span class="title_small">14 Celebrities Who Completely Transformed Their Faces With One Small Change</span>
+          </a>
+        </li>
+      
+    
+  
+  
+  <a rel:gt_act="vertical/more" rel:gt_label="ov-original-videos" href="/video" class="more_vertical">
+    <span class="pointer unicode">▶</span> 
+    MORE VIDEOS
+  </a>
+  
+</ul>
+
+<ul id="nav_preview_sports" class="nav_preview a">
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="sports" href="/danoshinsky/how-bad-is-your-case-of-bullets-fever" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr05/2/12/how-bad-is-your-case-of-bullets-fever-2-20225-1399047149-1.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="sports" href="/danoshinsky/how-bad-is-your-case-of-bullets-fever">
+            <span class="title_small">How Bad Is Your Case Of Bullets Fever?</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="sports" href="/tracyclayton/best-things-about-the-kentucky-derby-as-told-by-peopl" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr04/3/21/the-13-best-things-about-this-years-kentucky-derb-2-27527-1399168174-6.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="sports" href="/tracyclayton/best-things-about-the-kentucky-derby-as-told-by-peopl">
+            <span class="title_small">The 13 Best Things About This Year's Kentucky Derby, As Told By People Who Were There</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="sports" href="/danoshinsky/please-just-start-the-draft-already" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr05/6/16/we-as-a-nation-have-run-out-of-things-to-say-abou-2-14888-1399409133-21.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="sports" href="/danoshinsky/please-just-start-the-draft-already">
+            <span class="title_small">We, As A Nation, Have Run Out Of Things To Say About The NFL Draft</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="sports" href="/bensmith/report-oregon-state-fires-michelle-obamas-br" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr06/5/18/oregon-state-fires-michelle-obamas-brother-as-bas-2-20342-1399327736-6.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="sports" href="/bensmith/report-oregon-state-fires-michelle-obamas-br">
+            <span class="title_small">Oregon State Fires Michelle Obama's Brother As Basketball Coach</span>
+          </a>
+        </li>
+      
+    
+  
+  
+  <a rel:gt_act="vertical/more" rel:gt_label="sports" href="/sports" class="more_vertical">
+    <span class="pointer unicode">▶</span> 
+    MORE SPORTS
+  </a>
+  
+</ul>
+
+<ul id="nav_preview_quiz" class="nav_preview a">
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="quiz" href="/daves4/can-you-guess-the-textbook-based-on-a-totally-random-picture" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr05/7/12/can-you-guess-the-textbook-based-on-a-totally-ran-2-30591-1399478566-4.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="quiz" href="/daves4/can-you-guess-the-textbook-based-on-a-totally-random-picture">
+            <span class="title_small">Can You Guess The Textbook Based On A Totally Random Picture From It?</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="quiz" href="/bennyjohnson/how-well-do-you-know-basic-us-politics" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr03/7/11/how-well-do-you-know-basic-us-politics-2-17272-1399476890-4.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="quiz" href="/bennyjohnson/how-well-do-you-know-basic-us-politics">
+            <span class="title_small">How Well Do You Know Basic U.S. Politics?</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="quiz" href="/perpetua/what-kind-of-french-fry-are-you" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr07/7/13/what-kind-of-french-fry-are-you-2-31281-1399483665-0.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="quiz" href="/perpetua/what-kind-of-french-fry-are-you">
+            <span class="title_small">What Kind Of French Fry Are You?</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="quiz" href="/anaisbordages/combien-de-palmes-d-or-avez-vous-vues" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr04/7/10/combien-de-palmes-dor-avez-vous-vues-2-8577-1399474066-25.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="quiz" href="/anaisbordages/combien-de-palmes-d-or-avez-vous-vues">
+            <span class="title_small">Combien de Palmes d'Or avez-vous vues ?</span>
+          </a>
+        </li>
+      
+    
+  
+  
+  <a rel:gt_act="vertical/more" rel:gt_label="quiz" href="/quiz" class="more_vertical">
+    <span class="pointer unicode">▶</span> 
+    MORE QUIZ
+  </a>
+  
+</ul>
+
+<ul id="nav_preview_style" class="nav_preview a">
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="style" href="/krystieyandoli/this-teenagers-self-portraits-perfectly-capture-100-years-of" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr07/2/14/this-teenagers-self-portraits-perfectly-capture-1-2-9453-1399055003-48.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="style" href="/krystieyandoli/this-teenagers-self-portraits-perfectly-capture-100-years-of">
+            <span class="title_small">This Teenager's Self-Portraits Perfectly Capture 100 Years Of Fashion</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="style" href="/juliegerstein/katie-holmes-wants-to-be-the-belle-at-the-met-gala-ball" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr06/6/10/katie-holmes-stole-belles-look-for-the-met-ball-2-23499-1399387056-8.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="style" href="/juliegerstein/katie-holmes-wants-to-be-the-belle-at-the-met-gala-ball">
+            <span class="title_small">Katie Holmes Stole Belle's Look For The Met Ball</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="style" href="/juliegerstein/wedding-flats-to-keep-you-comfy-cute-on-your-big" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr02/3/14/42-pairs-of-wedding-flats-to-keep-you-comfy-cute--2-5179-1399142401-6.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="style" href="/juliegerstein/wedding-flats-to-keep-you-comfy-cute-on-your-big">
+            <span class="title_small">42 Pairs Of Wedding Flats To Keep You Comfy &amp; Cute On Your Big Day</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="style" href="/juliegerstein/adorable-toddler-gets-the-met-ball-treatment-from-vogue" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr08/5/14/this-4-year-old-fashionista-just-got-tapped-by-vo-2-31222-1399314851-8.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="style" href="/juliegerstein/adorable-toddler-gets-the-met-ball-treatment-from-vogue">
+            <span class="title_small">This 4-Year-Old Fashionista Just Got Tapped By Vogue</span>
+          </a>
+        </li>
+      
+    
+  
+  
+  <a rel:gt_act="vertical/more" rel:gt_label="style" href="/style" class="more_vertical">
+    <span class="pointer unicode">▶</span> 
+    MORE STYLE
+  </a>
+  
+</ul>
+
+<ul id="nav_preview_breaking" class="nav_preview a">
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="breaking" href="/ryanhatesthis/this-awesome-teenager-decided-to-take-his-89-year-old-great" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr06/2/11/this-awesome-teenager-decided-to-take-his-89-year-2-9586-1399046007-25.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="breaking" href="/ryanhatesthis/this-awesome-teenager-decided-to-take-his-89-year-old-great">
+            <span class="title_small">This Awesome Teenager Decided To Take His 89-Year-Old Great-Grandmother To Prom</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="breaking" href="/rachelzarrell/this-guy-just-went-a-year-without-showering-and-isnt-turning" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr04/3/13/meet-the-guy-who-just-went-a-year-without-showeri-1-6672-1399138124-6.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="breaking" href="/rachelzarrell/this-guy-just-went-a-year-without-showering-and-isnt-turning">
+            <span class="title_small">Meet The Guy Who Just Went A Year Without Showering (And Isn't Stopping)</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="breaking" href="/ryanhatesthis/heres-a-big-map-that-shows-you-how-badly-everyone-around-you" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr05/1/12/heres-a-big-map-that-shows-you-how-badly-everyone-2-9233-1398961547-40.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="breaking" href="/ryanhatesthis/heres-a-big-map-that-shows-you-how-badly-everyone-around-you">
+            <span class="title_small">Here's A Big Map That Shows You How Badly Everyone Around You Wants To Move To Another State</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="breaking" href="/mbvd/toronto-mayor-rob-ford-takes-leave-of-absence-as-new-crack-v" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr02/1/12/toronto-mayor-rob-ford-takes-leave-of-absence-as--2-1545-1398962459-16.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="breaking" href="/mbvd/toronto-mayor-rob-ford-takes-leave-of-absence-as-new-crack-v">
+            <span class="title_small">Toronto Mayor Rob Ford Takes Leave Of Absence As New Crack Video Emerges</span>
+          </a>
+        </li>
+      
+    
+  
+  
+  <a rel:gt_act="vertical/more" rel:gt_label="breaking" href="/breaking" class="more_vertical">
+    <span class="pointer unicode">▶</span> 
+    MORE BREAKING
+  </a>
+  
+</ul>
+
+<ul id="nav_preview_food" class="nav_preview a">
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="food" href="/christinebyrne/clean-eating-challenge" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr02/7/13/take-buzzfeeds-clean-eating-challenge-feel-like-a-2-29260-1399483774-17.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="food" href="/christinebyrne/clean-eating-challenge">
+            <span class="title_small">Take BuzzFeed's Clean Eating Challenge, Feel Like A Champion At Life</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="food" href="/ryanhatesthis/confusing-fridge-chips-mystery" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr07/5/19/a-lot-of-people-on-twitter-are-really-confused-ab-2-26587-1399333489-16.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="food" href="/ryanhatesthis/confusing-fridge-chips-mystery">
+            <span class="title_small">A Lot Of People On Twitter Are Really Confused About Why Target Is Refrigerating Its Doritos</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="food" href="/leonoraepstein/which-ben-jerrys-ice-cream-flavor-are-you" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr03/7/10/which-ben-jerrys-ice-cream-flavor-are-you-2-29303-1399474585-19.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="food" href="/leonoraepstein/which-ben-jerrys-ice-cream-flavor-are-you">
+            <span class="title_small">Which Ben &amp; Jerry's Ice Cream Flavor Are You?</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="food" href="/mattbellassai/heres-what-happens-when-you-try-to-eat-12-donuts-from-12-don" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr04/2/15/heres-what-happens-when-you-try-to-eat-12-donuts--2-12666-1399057768-0.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="food" href="/mattbellassai/heres-what-happens-when-you-try-to-eat-12-donuts-from-12-don">
+            <span class="title_small">Here's What Happens When You Try To Eat 12 Donuts From 12 Donut Shops In One Morning</span>
+          </a>
+        </li>
+      
+    
+  
+  
+  <a rel:gt_act="vertical/more" rel:gt_label="food" href="/food" class="more_vertical">
+    <span class="pointer unicode">▶</span> 
+    MORE FOOD
+  </a>
+  
+</ul>
+
+<ul id="nav_preview_rewind" class="nav_preview a">
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="rewind" href="/leonoraepstein/how-many-90s-foods-have-you-tried" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr04/1/14/how-many-90s-foods-have-you-tried-2-20452-1398969091-15.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="rewind" href="/leonoraepstein/how-many-90s-foods-have-you-tried">
+            <span class="title_small">How Many '90s Foods Have You Tried?</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="rewind" href="/briangalindo/27-amazing-rare-photos-from-the-first-season-of-friends" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr05/6/12/27-amazing-rare-photos-from-the-first-season-of-f-2-1905-1399395597-0.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="rewind" href="/briangalindo/27-amazing-rare-photos-from-the-first-season-of-friends">
+            <span class="title_small">27 Amazing Rare Photos From The First Season Of "Friends"</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="rewind" href="/laraparker/questions-all-90s-kids-still-want-an-answer-to" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr07/7/10/25-things-that-90s-kids-are-still-trying-to-figur-2-3487-1399471759-7.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="rewind" href="/laraparker/questions-all-90s-kids-still-want-an-answer-to">
+            <span class="title_small">25 Things That '90s Kids Are Still Trying To Figure Out</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="rewind" href="/briangalindo/13-tbt-photos-you-may-have-missed-this-week" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr04/2/20/13-tbt-photos-you-may-have-missed-this-week-2-18506-1399075708-0.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="rewind" href="/briangalindo/13-tbt-photos-you-may-have-missed-this-week">
+            <span class="title_small">13 #TBT Photos You May Have Missed This Week</span>
+          </a>
+        </li>
+      
+    
+  
+  
+  <a rel:gt_act="vertical/more" rel:gt_label="rewind" href="/rewind" class="more_vertical">
+    <span class="pointer unicode">▶</span> 
+    MORE REWIND
+  </a>
+  
+</ul>
+
+<ul id="nav_preview_ideas" class="nav_preview a">
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="ideas" href="/malcolmharris/usa-network-is-televisions-best-answer-to-the-shifting-socia" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-04/campaign_images/webdr08/12/11/usa-network-is-televisions-best-answer-to-the-shi-2-28444-1397318125-9.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="ideas" href="/malcolmharris/usa-network-is-televisions-best-answer-to-the-shifting-socia">
+            <span class="title_small">USA Network Is Television's Best Answer To The Shifting Social Order</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="ideas" href="/anitabadejo/why-black-women-in-america-are-being-told-to-find-love-in-eu" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-04/campaign_images/webdr05/10/22/why-black-women-in-america-are-being-told-to-find-2-12580-1397181816-10.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="ideas" href="/anitabadejo/why-black-women-in-america-are-being-told-to-find-love-in-eu">
+            <span class="title_small">Why Black Women In America Are Being Told To Find Love In Europe</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="ideas" href="/ariannarebolini/talking-to-my-mother-about-our-bulimia" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-04/campaign_images/webdr06/4/13/talking-to-my-mother-about-our-bulimia-2-22079-1396632009-1.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="ideas" href="/ariannarebolini/talking-to-my-mother-about-our-bulimia">
+            <span class="title_small">Talking To My Mother About Our Bulimia</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="ideas" href="/alokvaidmenonn/to-body-mod-away-from-brownness-and-back" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-04/campaign_images/webdr06/3/13/to-body-mod-away-from-brownness-and-back-2-5659-1396544955-18.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="ideas" href="/alokvaidmenonn/to-body-mod-away-from-brownness-and-back">
+            <span class="title_small">To Body Mod Away From Brownness And Back</span>
+          </a>
+        </li>
+      
+    
+  
+  
+  <a rel:gt_act="vertical/more" rel:gt_label="ideas" href="/ideas" class="more_vertical">
+    <span class="pointer unicode">▶</span> 
+    MORE IDEAS
+  </a>
+  
+</ul>
+
+<ul id="nav_preview_hot" class="nav_preview a">
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="hot" href="/mjs538/a-rihanna-meet-greet-vs-an-avril-lavigne-meet-greet" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr02/5/13/a-rihanna-meet-and-greet-vs-an-avril-lavigne-meet-2-17361-1399311307-4.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="hot" href="/mjs538/a-rihanna-meet-greet-vs-an-avril-lavigne-meet-greet">
+            <span class="title_small">A Rihanna Meet And Greet Vs. An Avril Lavigne Meet And Greet</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="hot" href="/rachelzarrell/young-tornado-victim-sends-heartbreaking-final-text-to-mom" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr05/5/16/college-student-sends-heartbreaking-text-to-his-m-2-15484-1399321398-0.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="hot" href="/rachelzarrell/young-tornado-victim-sends-heartbreaking-final-text-to-mom">
+            <span class="title_small">College Student Sends Heartbreaking Text To His Mom Before Tornado Strikes His Home</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="hot" href="/juliegerstein/shape-magazine-refused-to-let-this-woman-wear-a-bikini-on-it" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr05/6/18/shape-magazine-refused-to-let-this-woman-wear-a-b-2-21800-1399415098-0.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="hot" href="/juliegerstein/shape-magazine-refused-to-let-this-woman-wear-a-bikini-on-it">
+            <span class="title_small">Shape Magazine Refused To Let This Woman Wear A Bikini On Its Site</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="hot" href="/rachelzarrell/worlds-best-father-uses-his-3-year-old-to-create-hilarious-s" class="thumb_warpper">
+            
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr06/6/10/this-dads-pictures-with-his-3-year-old-show-just--2-18842-1399386682-1.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="hot" href="/rachelzarrell/worlds-best-father-uses-his-3-year-old-to-create-hilarious-s">
+            <span class="title_small">This Dad's Pictures With His 3-Year-Old Show Just How Hilarious It Is To Be A Father</span>
+          </a>
+        </li>
+      
+    
+  
+  
+  <a rel:gt_act="vertical/more" rel:gt_label="hot" href="/hot" class="more_vertical">
+    <span class="pointer unicode">▶</span> 
+    MORE HOT BUZZ
+  </a>
+  
+</ul>
+
+<ul id="nav_preview_all-videos" class="nav_preview a">
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="all-videos" href="/video/mikerose/why-prom-is-stupid" class="thumb_warpper">
+            <img src="http://s3-ak.buzzfed.com/static/images/public/videopage/play_icon.png" class="video_play_button" nopin="nopin">
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr06/5/21/definitive-proof-that-prom-is-stupid-2-2565-1399339551-3.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="all-videos" href="/video/mikerose/why-prom-is-stupid">
+            <span class="title_small">Definitive Proof That Prom Is Stupid</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="all-videos" href="/video/hillarylevine/how-to-sit-properly" class="thumb_warpper">
+            <img src="http://s3-ak.buzzfed.com/static/images/public/videopage/play_icon.png" class="video_play_button" nopin="nopin">
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr08/2/13/how-to-sit-properly-2-24613-1399053218-10.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="all-videos" href="/video/hillarylevine/how-to-sit-properly">
+            <span class="title_small">How To Sit Properly</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="all-videos" href="/video/jeffrubin/how-hard-is-climbing-everest" class="thumb_warpper">
+            <img src="http://s3-ak.buzzfed.com/static/images/public/videopage/play_icon.png" class="video_play_button" nopin="nopin">
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr08/5/19/how-hard-is-climbing-everest-really-2-32389-1399330806-18.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="all-videos" href="/video/jeffrubin/how-hard-is-climbing-everest">
+            <span class="title_small">How Hard Is Climbing Everest, Really?</span>
+          </a>
+        </li>
+      
+    
+  
+    
+      
+        
+        <li>
+          <a rel:gt_act="post/thumb" rel:gt_label="all-videos" href="/video/eugeneyang/is-chivalry-dead" class="thumb_warpper">
+            <img src="http://s3-ak.buzzfed.com/static/images/public/videopage/play_icon.png" class="video_play_button" nopin="nopin">
+            <img src="http://s3-ak.buzzfeed.com/static/2014-05/campaign_images/webdr05/4/22/is-chivalry-dead-2-32472-1399257965-0.jpg" class="image_square" nopin="nopin">
+          </a>
+          <a rel:gt_act="post/title" rel:gt_label="all-videos" href="/video/eugeneyang/is-chivalry-dead">
+            <span class="title_small">Is Chivalry Dead?</span>
+          </a>
+        </li>
+      
+    
+  
+  
+  <a rel:gt_act="vertical/more" rel:gt_label="all-videos" href="/video" class="more_vertical">
+    <span class="pointer unicode">▶</span> 
+    MORE VIDEOS
+  </a>
+  
+</ul>
+
+<!-- UNIT:Navigationbar generated on 14:21:21,  5/ 7/2014 --> 
+    </div>
+    <div class="c"></div>
+  </div>
+  <div id="nav_menu_more" style="display: none;">
+    <a rel:gt_act="made-in-nyc" class="made-in-nyc" href="http://wearemadeinny.com/"></a>
+    <ul class="footer-main-menu">
+      <li><a rel:gt_act="advertise" href="/advertise">Advertise</a></li>
+      <li><a rel:gt_act="jobs" href="/about/jobs">Jobs</a></li>
+      <li><a rel:gt_act="mobile" href="/tools/mobile-ios">Mobile</a></li>
+      <li><a rel:gt_act="newsletters" href="/tools/email">Newsletters</a></li>
+      <li>
+<div class="country_switch country-toggle bf_dom" rel:bf_bucket_data="{'country_switch_menu':{}}">
+  US Edition
+  <span class="unicode">▼</span>
+  <div class="country_switch_menu country-toggle-menu" style="display:none;">
+    <a class="bf_dom" rel:bf_bucket_data="{'country_switch':{ 'r': '/?country=us' }}">US Edition</a>
+    <a class="bf_dom" rel:bf_bucket_data="{'country_switch':{ 'r': '/?country=uk' }}">UK Edition</a>
+    <a class="bf_dom" rel:bf_bucket_data="{'country_switch':{ 'r': '/?country=au' }}">Australia</a>
+    <a class="bf_dom" rel:bf_bucket_data="{'country_switch':{ 'r': '/?country=br' }}">Brasil</a>
+    <a class="bf_dom" rel:bf_bucket_data="{'country_switch':{ 'r': '/?country=es' }}">Español</a>
+    <a class="bf_dom" rel:bf_bucket_data="{'country_switch':{ 'r': '/?country=fr' }}">France</a>
+  </div>
+</div></li>
+    </ul>
+    <ul class="footer-sub-menu">
+      <li><a rel:gt_act="about" href="/about">About</a></li>
+      <li><a rel:gt_act="press" href="/press">Press</a></li>
+      <li><a rel:gt_act="rss" href="/tools/more">RSS</a></li>
+      <li><a rel:gt_act="privacy" href="/about/privacy">Privacy</a></li>
+      <li><a rel:gt_act="user-terms" href="/about/useragreement">User Terms</a></li>
+      <li><a rel:gt_act="ad-choices" href="/about/privacy#adchoices">Ad Choices</a></li>
+      <li><a rel:gt_act="faq" href="/help/faq">Help</a></li>
+      <li><a rel:gt_act="contact" href="/about/contact">Contact</a></li>
+      <li>© 2014  BuzzFeed, Inc</li>
+    </ul>
+  </div>
+  <div id="just_block" class="bf_dom" rel:bf_bucket="gtrack" rel:gt_cat="launch-modes">
+    
+    
+    
+    <div id="just-modes-choose" class="justmode-choose-">
+      Just want to see <span class="just-news-txt">News</span><span class="just-life-txt">Life</span><span class="just-entertainment-txt">Entertainment</span>?
+      <a class="just-news-txt blue-button" rel:gt_act="nav-menu-just-news" href="/just/news">Just News</a>
+      <a class="just-life-txt blue-button" rel:gt_act="nav-menu-just-life" href="/just/life">Just Life</a>
+      <a class="just-entertainment-txt blue-button" rel:gt_act="nav-menu-just-entertainment" href="/just/entertainment">Just Entertainment</a>
+    </div>
+  </div>
+</div>
+  <header class="unified_header full-width " rel:gt_cat="[ttp]:header">
+
+    <div id="upper-background">
+      <div id="upper-wrapper">
+        <div class="upper">
+          
+
+          
+          <h1 id="logo" class="social">
+            
+            <a class="logo" rel:gt_act="home" href="/">BuzzFeed</a>
+              
+            
+          </h1>
+
+          
+
+          
+
+          
+            
+          
+
+          
+
+          
+          
+          
+
+          
+          
+          
+          
+          
+          
+          <nav class="reactions">
+
+            
+
+            <ul>
+
+              
+              
+                
+
+                
+                
+
+                
+                              
+                
+                  <li class="reaction lol rofl elevatable">
+                    <a class="normal" rel:gtrack_id="badge/lol" rel:gt_act="badge/lol" href="/lol"><img src="http://s3-ak.buzzfed.com/static/images/partner/toyota/elevate/badges/lol.png" nopin="nopin"><span>LOL</span></a>
+                    
+                  </li>
+                                    
+                  <li class="reaction win epic_win elevatable">
+                    <a class="normal" rel:gtrack_id="badge/win" rel:gt_act="badge/win" href="/win"><img src="http://s3-ak.buzzfed.com/static/images/partner/toyota/elevate/badges/win.png" nopin="nopin"><span>Win</span></a>
+                    
+                  </li>                  
+                                    
+                  <li class="reaction omg zomg elevatable">
+                    <a class="normal" rel:gtrack_id="badge/omg" rel:gt_act="badge/omg" href="/omg"><img src="http://s3-ak.buzzfed.com/static/images/partner/toyota/elevate/badges/omg.png" nopin="nopin"><span>OMG</span></a>
+                    
+                  </li>
+                  
+                  <li class="reaction cute aww elevatable">
+                    <a class="normal" rel:gtrack_id="badge/cute" rel:gt_act="badge/cute" href="/cute"><img src="http://s3-ak.buzzfed.com/static/images/partner/toyota/elevate/badges/cute.png" nopin="nopin"><span>Cute</span></a>
+                    
+                  </li>
+                  
+
+                
+                  <li class="reaction trashy smh elevatable">
+                      <a class="normal" rel:gtrack_id="badge/trashy" rel:gt_act="badge/trashy" href="/trashy"><img src="http://s3-ak.buzzfed.com/static/images/partner/toyota/elevate/badges/trashy.png" nopin="nopin"><span>Trashy</span></a>
+                  </li>
+                
+                
+                  <li class="reaction fail epic_fail elevatable">
+                    <a class="normal" rel:gtrack_id="badge/fail" rel:gt_act="badge/fail" href="/fail"><img src="http://s3-ak.buzzfed.com/static/images/partner/toyota/elevate/badges/fail.png" nopin="nopin"><span>Fail</span></a>
+                    
+                  </li>
+                  
+                  <li class="reaction wtf i_cant_even elevatable">
+                    <a class="normal" rel:gtrack_id="badge/wtf" rel:gt_act="badge/wtf" href="/wtf"><img src="http://s3-ak.buzzfed.com/static/images/partner/toyota/elevate/badges/wtf.png" nopin="nopin"><span>WTF?</span></a>
+                    
+                  </li>
+                  
+                  <li class="reaction social"><a rel:gtrack_id="badge/social" rel:gt_act="badge/social" href="/hot">What's Hot</a></li>
+                  
+              
+            </ul>
+           </nav>
+                  </div>
+      </div>
+    </div> 
+
+
+    <div id="lower-background">
+      <div id="lower-wrapper">
+        <div class="lower">
+          
+          <div id="nav-left" class="bf_dom" rel:bf_bucket="gtrack" rel:gt_cat="launch-modes">
+            <div id="menu-news" class="menu-item header_dropdown" menu_group="news">
+              <span><a href="/just/news" rel:gt_act="header-menu-just-news" rel:gt_label="Click Header Menu Just News">NEWS</a></span>
+            </div>
+            <div id="menu-entertainment" class="menu-item header_dropdown" menu_group="entertainment">
+              <span><a href="/just/entertainment" rel:gt_act="header-menu-just-entertainment" rel:gt_label="Click Header Menu Just Entertainment">ENTERTAINMENT</a></span>
+            </div>
+            <div id="menu-life" class="menu-item header_dropdown" menu_group="life">
+              <span><a href="/just/life" rel:gt_act="header-menu-just-life" rel:gt_label="Click Header Menu Just Life">LIFE</a></span>
+            </div>
+            <div id="video-more" class="menu-item header_dropdown" menu_group="video">
+              <span><a href="/video">VIDEO</a></span>
+            </div>
+            <div id="menu-more" class="menu-item last-child header_dropdown" menu_group="more">
+              <span>MORE</span>
+            </div>
+            
+              <div class="new-vertical-callout"><a rel:gt_act="get-our-app" href="/tools/mobile-ios">Get Our App!</a></div>
+            
+          </div>
+          
+
+          <div id="nav-right">
+            
+            
+            <div id="nav-search">
+              <div id="nav-search-box" class="=&quot;search_el&quot;" style="display: none; border: 1px solid #e2e2e2; height: 24px; background: white;">
+                <form action="/search" method="get" class="search_form search_el">
+                  <input style="border: 0px solid transparent; background: transparent;" type="text" placeholder="Search" name="q" autocomplete="off" id="header_search" rel:gt_act="ignore" value="" class="active search_el">
+                  <button type="submit" class="submit action search_button search_el" id="search_submit" rel:gt_act="ignore" style="display: none;"></button>
+                </form>
+              </div>
+              <div id="nav-search-btn"></div>
+            </div>
+            
+
+            <div id="nav-signin">
+              <div id="usernav-signin">
+                <a class="nav-signin-icon bf_dom" rel:gt_act="sign-in" rel:bf_bucket_data="{'signin':{'signin_type':'initial', 'location':'header'}}" id="header-signin"></a>
+              </div>
+              <div id="usernav-profile" style="display: none;" class="header_dropdown">
+                <a rel:gt_act="user" href="javascript:;" id="usernav-profile-link" rel:bf_bucket="usernav-profile-link" class="bf_dom dropdown_heading">
+                  <span class="image" id="usernav-image" style="display:none;">
+                    <img src="http://s3-ak.buzzfed.com/static/images/public/defaults/user.jpg" width="24" height="24" alt="" nopin="nopin">
+                  </span>
+                </a>
+                <ul id="usernav-menu" class="menu">
+                  
+                  <li id="usernav-new-post" class="SL_hide"><a rel:gt_act="user/new-post" href="/post">NEW POST</a></li>
+                  <li id="usernav-my-feed"><a rel:gt_act="user/my-feed" id="usernav-profile-link2" rel:bf_bucket="usernav-profile-link" class="bf_dom" href="javascript:;">MY FEED</a></li>
+                  <li id="usernav-dashboard" class="hidden SL_hide"><a rel:gt_act="user/dashboard" href="/dashboard">DASHBOARD</a></li>
+                  <li id="usernav-switch" style="display:none;"><a rel:rel:gt_act="user/switch-feed-user" href="javascript:;" onclick="return false;" id="usernav-switch-link">FEEDS/USERS<img id="switch-list-spinner" src="http://s3-ak.buzzfed.com/static/images/public/spinners/small_on_f6f6f6.gif" width="16" height="16" style="display:none;"></a></li>
+                  
+                  <li id="usernav-settings" style="display: none;"><a rel:gt_act="user/settings" href="/settings" id="usernav-settings-link">SETTINGS</a></li>
+                  <li id="usernav-signout" style="display:none;" class="last"><a rel:gt_act="user/sign-out" href="javascript:;">SIGN OUT</a></li>
+                </ul>
+              </div>
+              <div id="usernav-switch-list" class="SwitchUser list-users" style="display: none;"></div>
+            </div>
+            
+
+          </div>
+        </div>
+      </div>
+    </div>  
+  </header>
+</div>
